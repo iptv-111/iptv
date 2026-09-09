@@ -39,6 +39,10 @@ https://tvsen3.aynaott.com/VamXuQH8/index.m3u8
 https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8
 #EXTINF:-1 tvg-id="IndiaTV.in@SD",India TV (576p)
 https://streams.tangotv.in/INDIATV/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="MTV.in@SD",MTV (720p)
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NDTV24x7.in@SD",NDTV 24x7 (480p)
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 #EXTINF:-1 tvg-id="NDTVIndia.in@SD",NDTV India (720p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/NDTVIndia.m3u8
 #EXTINF:-1 tvg-id="NDTVIndia.in@SD",NDTV India (480p) [Not 24/7]
@@ -71,6 +75,8 @@ https://cloudplay-sonyliv.pages.dev/maxhd.m3u8
 http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=156013&extension=ts&play_token=slNi06NyY0
 #EXTINF:-1 tvg-id="SonyMax.in@SD",Sony Max (1080p)
 https://cloudplay-sonyliv.pages.dev/max.m3u8
+#EXTINF:-1 tvg-id="SonyMax2.in@SD",Sony Max 2 (1080p)
+https://cloudplay-sonyliv.pages.dev/max2.m3u8
 #EXTINF:-1 tvg-id="SonyPal.in@SD",Sony Pal (576p)
 http://59.103.38.46:8000/play/a0ac/index.m3u8
 #EXTINF:-1 tvg-id="SonyPal.in@SD",Sony Pal (1080p)
