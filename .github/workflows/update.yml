@@ -27,8 +27,10 @@ jobs:
           npm run playlist:validate
       - name: Generate public playlists
         run: npm run playlist:generate
-      - name: Add custom hindi.m3u playlist
-        run: cp streams/in.m3u .gh-pages/hindi.m3u
+      - name: Update custom hindi.m3u playlist
+        run: |
+          cp streams/in.m3u hindi.m3u
+          cp hindi.m3u .gh-pages/hindi.m3u
       - name: Create .api/streams.json
         run: npm run playlist:export
       - name: Update readme
@@ -40,7 +42,7 @@ jobs:
       - name: Commit changes to /streams
         if: steps.playlist-update.outputs.processed_issues != 0
         run: |
-          git add streams
+          git add streams hindi.m3u
           git status
           git commit --allow-empty -m "[Bot] Update /streams" -m "Committed by [iptv-bot](https://github.com/apps/iptv-bot) via [update](https://github.com/iptv-org/iptv/actions/runs/${{ github.run_id }}) workflow." -m "${{ steps.playlist-update.outputs.processed_issues }}" --no-verify
       - name: Commit changes to PLAYLIST.md
