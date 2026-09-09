@@ -81,10 +81,6 @@ https://streams.tangotv.in/INDIATV/ORIGIN/index.m3u8
 https://streams.tangotv.in/NEWS24/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="Goldmines.in@SD",Goldmines (576p)
 https://tvsen3.aynaott.com/VamXuQH8/index.m3u8
-#EXTINF:-1 tvg-id="WOWKidz.in@Telugu",WOW Kidz (720p)
-https://yuppparoriglin.akamaized.net/181224/smil:wowkidztelgu.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-#EXTINF:-1 tvg-id="WOWKidz.in@Tamil",WOW Kidz Tamil (720p)
-https://yuppparoriglin.akamaized.net/181224/smil:wowkidztam.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="ZeeNews.in@SD",Zee News (576p)
 https://mumt07.tangotv.in/zHjX9OFlZEENEWS/index.m3u8
 #EXTINF:-1 tvg-id="StarPlus.in@HD",StarPlus HD (1080p) [Geo-blocked]
@@ -113,5 +109,3 @@ https://cloudplay-sonyliv.pages.dev/ten3.m3u8
 https://cloudplay-sonyliv.pages.dev/ten3hd.m3u8
 #EXTINF:-1 tvg-id="SonyYay.in@SD",Sony Yay! (1080p)
 https://cloudplay-sonyliv.pages.dev/yay.m3u8
-#EXTINF:-1 tvg-id="ColorsMarathi.in@HD",Colors Marathi HD (720p)
-https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsmarathihd.smil/playlist.m3u8
