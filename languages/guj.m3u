@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="DDGirnar.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142782_ld_h15_aa.png?lock=720x540" group-title="General",DD Girnar (504p)
 https://d2lk5u59tns74c.cloudfront.net/out/v1/558fdb9aebb54bb5bbbf0ced03686148/index.m3u8
+#EXTINF:-1 tvg-id="VTVNews.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_VTV_GUJARATI/images/LOGO_HD/image.png" group-title="News",VTV News (576p)
+https://live1.ottlive.co.in/vtvgujarati/vtvgujarati/index.m3u8
