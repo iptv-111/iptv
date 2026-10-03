@@ -95,10 +95,10 @@ https://cloudplay-sonyliv.pages.dev/yay.m3u8
 http://202.70.146.135:8000/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="StarPlus.in@HD",StarPlus HD (1080p) [Geo-blocked]
 http://41.205.93.154/STAR-PLUS/index.m3u8
-#EXTINF:-1 tvg-id="StarSports1Hindi.in@SD",Star Sports 1 Hindi (576p)
+#EXTINF:-1 tvg-id="StarSports1.in@SD",Star Sports 1 (576p)
 http://51.75.127.199:3141/starsports1/index.m3u8
-#EXTINF:-1 tvg-id="StarSports2Hindi.in@SD",Star Sports 2 Hindi (720p)
-https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8
+#EXTINF:-1 tvg-id="StarSports1Hindi.in@HD",Star Sports 1 Hindi (1080p)
+http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 tvg-id="TimesNow.in@SD",Times Now (720p) [Geo-blocked]
 https://pubads.g.doubleclick.net/ssai/event/1mR1QUQ3Tg-VuKfiyjwNuA/master.m3u8
 #EXTINF:-1 tvg-id="TV9Bharatvarsh.in@SD",TV9 Bharatvarsh (720p)
