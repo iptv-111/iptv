@@ -410,6 +410,8 @@ http://125hvt.ddns.net:21585/thvl1/playlist.m3u8
 https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="WCCADT1.us@SD" tvg-logo="" group-title="Undefined",WCCA 194 Worcester MA (WCCA-TV) (480p)
 https://worcester.vod.castus.tv/live/ch1.m3u8
+#EXTINF:-1 tvg-id="WDWL581.pr@HD" tvg-logo="" group-title="Undefined",WDWL-DT1 (Teleadoración/Enlace PR) (720p) [Not 24/7]
+https://67acccf130420.streamlock.net/enlacepr1/enlacepr1/playlist.m3u8
 #EXTINF:-1 tvg-id="WeatherSpy.us@Poland" tvg-logo="https://i.imgur.com/yHUUIIz.png" group-title="Weather",Weather Spy (720p)
 https://beaece44.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1dlYXRoZXJTcHlfSExT/playlist.m3u8
 #EXTINF:-1 tvg-id="WGALDT3.us@SD" tvg-logo="" group-title="Undefined",WGAL-DT3 (1080p) [Geo-blocked]
