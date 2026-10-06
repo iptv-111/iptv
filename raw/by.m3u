@@ -57,3 +57,9 @@ http://rtmp.one.by:2300
 https://live.dc.beltelecom.by/trkgomel/trkgomel.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Vitebsk.by@SD" tvg-logo="https://i.imgur.com/qr26qQn.png" group-title="Undefined",Vitebsk
 https://live.dc.beltelecom.by/vtv/vitebsk.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Vitebsk.by@SD" tvg-logo="https://i.imgur.com/qr26qQn.png" group-title="Undefined",Vitebsk (576p)
+http://46.53.200.153:7777/play/a00h/index.m3u8
+#EXTINF:-1 tvg-id="BugTV.by@SD" tvg-logo="https://i.imgur.com/KqB7YdO.png" group-title="General",Bug-TV (1080p)
+http://46.53.200.153:7777/play/Bug_TV_HD/index.m3u8
+#EXTINF:-1 tvg-id="SvetloeTV.by@SD" tvg-logo="https://i.imgur.com/75cfvJt.png" group-title="Undefined",Svetloe TV (576p)
+http://46.53.200.153:7777/play/svetloetv/index.m3u8
