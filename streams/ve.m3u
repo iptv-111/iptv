@@ -157,3 +157,5 @@ https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
 #EXTINF:-1 tvg-id="WataVision.ve@SD",Wata Vision
 https://live20.bozztv.com/giatv/giatv-watavision/watavision/chunks.m3u8
+#EXTINF:-1 tvg-id="TVes.ve@SD",TVes (1080p)
+https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8
