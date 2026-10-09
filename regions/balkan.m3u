@@ -107,9 +107,6 @@ https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1 tvg-id="ArasTV.tr@SD" tvg-logo="https://i.imgur.com/JsDCyWG.png" group-title="General",ARAS TV (576p) [Not 24/7]
 http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ArenaSport5Premium.rs@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/de/Arena_Sport_5_Premium_%282025%2C_short%29.png/revision/latest?cb=20260619135051" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Arena Sport 5 Premium
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-https://nl1.nghk.ai/SK2SRHD/index.m3u8
 #EXTINF:-1 tvg-id="ArgesTV.ro@SD" tvg-logo="https://i.imgur.com/qufz6nk.png" group-title="General",Arges TV (720p)
 https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8
 #EXTINF:-1 tvg-id="ArirangUN.kr@SD" tvg-logo="https://i.imgur.com/Jdy3WNm.png" group-title="News",Arirang TV UN (1080p)
@@ -1093,9 +1090,6 @@ https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PowerTurkTV.tr@SD" tvg-logo="https://i.imgur.com/9OPoXQG.png" group-title="Undefined",PowerTürk TV (720p)
 https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8
-#EXTINF:-1 tvg-id="PrimaComedy.ro@SD" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/c/c6/Prima_Comedy_%282022-.n.v.%29.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0 Win64 x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/109.0.0.0 Safari/537.36" group-title="Comedy",Prima Comedy (576p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0 Win64 x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://dokagents.site/live/primacomedy/mono.m3u8
 #EXTINF:-1 tvg-id="PrimaNews.ro@SD" tvg-logo="https://i.imgur.com/wlqGfU2.png" group-title="News",Prima News
 https://hls02ns.antenaplay.ro/hls/prima-news-hd/index.m3u8
 #EXTINF:-1 tvg-id="PrimaTV.ro@HD" tvg-logo="https://i.imgur.com/p2umWAT.png" group-title="General",Prima TV HD
@@ -1193,6 +1187,8 @@ http://213.91.179.28:8000/play/a0bw
 http://5.254.89.106/8702/index.m3u8
 #EXTINF:-1 tvg-id="RTK3.xk@SD" tvg-logo="https://i.imgur.com/Ut9VcT3.png" group-title="Undefined",RTK 3 (1080p)
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
+#EXTINF:-1 tvg-id="RTNChicago.us@SD" tvg-logo="https://i.ibb.co/wwchqYk/889dc1-937ba3d8d4ed4331a668a1c544766318-mv2.png" group-title="Religious",RTN Chicago (480p)
+https://651c69fa2ff4e.streamlock.net/3707/live1/chunklist.m3u8
 #EXTINF:-1 tvg-id="RTPMundo.pt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/RTP_Mundo.svg/1920px-RTP_Mundo.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0" group-title="General",RTP Mundo (504p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8

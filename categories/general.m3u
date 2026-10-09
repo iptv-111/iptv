@@ -1254,6 +1254,8 @@ https://cdn4.skygo.mn/live/disk1/Ekh_Oron/DASH-FTA/Ekh_Oron.mpd
 https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/cerritos/G0010_002/playlist.m3u8
 #EXTINF:-1 tvg-id="ChadaTV.ma@SD" tvg-logo="https://freebox.cdn.scw.iliad.fr/medium_Logo_chada_tv_2ee1412d38.png" group-title="General",Chada TV (720p)
 https://edge13.vedge.infomaniak.com/livecast/ik:chadatv/manifest.m3u8
+#EXTINF:-1 tvg-id="Channel5.sg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/960px-Mediacorp_Channel_5_2023.svg.png" group-title="General",Channel 5 (720p)
+https://cdn.qd.je/163189/ch5
 #EXTINF:-1 tvg-id="Channel5.th@SD" tvg-logo="https://i.imgur.com/wOIaqg7.png" group-title="General",Channel 5 (1080p)
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel5International.ru@SD" tvg-logo="https://i.imgur.com/KPXMa3U.png" group-title="General",Channel 5 International (576p)
@@ -2740,10 +2742,8 @@ https://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8
 #EXTINF:-1 tvg-id="MBC1Egypt.eg@HD" tvg-logo="https://i.imgur.com/CiA3plN.png" group-title="General",MBC 1 Egypt (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8
-#EXTINF:-1 tvg-id="MBC1USA.us@SD" tvg-logo="https://i.imgur.com/CiA3plN.png" http-referrer="https://cdn.stmify.com/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36" group-title="General",MBC 1 USA (1080p)
-#EXTVLCOPT:http-referrer=https://cdn.stmify.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-https://sh.cdn1-stmify.workers.dev/out/v1/MBC_1_USA/index.m3u8
+#EXTINF:-1 tvg-id="MBC1USA.us@SD" tvg-logo="https://i.imgur.com/CiA3plN.png" group-title="General",MBC 1 USA (1080p) [Geo-blocked]
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-usa/fdac3a4fc0473f1f56e07ec1d63a4b7b/index.m3u8
 #EXTINF:-1 tvg-id="HLAWDTV.kr@SD" tvg-logo="https://i.imgur.com/nqRWpUu.png" group-title="General",MBC Andong (안동 MBC) (360p) [Not 24/7]
 http://andong.webcasting.co.kr/live/mbc/playlist.m3u8
 #EXTINF:-1 tvg-id="MBCBrasilTV.br@SD" tvg-logo="https://eswqkrogupaisirwcsys.supabase.co/storage/v1/object/public/mbc-media/canais/1775702325773-d10vtu076za.png" group-title="General",MBC Brasil TV
@@ -3556,8 +3556,8 @@ https://mn-nl.mncdn.com/primetv/live/index.m3u8
 http://200.194.238.229:8383/live/primer/playlist.m3u8
 #EXTINF:-1 tvg-id="PrimitivosTV.cl@SD" tvg-logo="https://i.imgur.com/w9WpbTN.jpeg" group-title="General",Primitivos TV (720p)
 https://5eaccbab48461.streamlock.net:1936/heqhvtgebg/heqhvtgebg/playlist.m3u8
-#EXTINF:-1 tvg-id="PROTVChisinau.md@SD" tvg-logo="https://i.imgur.com/X5PYRxF.png" group-title="General;News",PRO TV Chisinau (480p)
-https://stream.protv.md/live/sursa-1/index.m3u8
+#EXTINF:-1 tvg-id="PROTVChisinau.md@SD" tvg-logo="https://i.imgur.com/X5PYRxF.png" group-title="General;News",PRO TV Chisinau (576p)
+http://178.76.68.60:7442/15/mpegts
 #EXTINF:-1 tvg-id="PROFI24TV.ro@SD" tvg-logo="https://profi24.ro/wp-content/uploads/2025/03/Logo_Profi24_Nou_Logo_Profi24_Landscape_Logo_Profi24_Landscape-e1742981714264.png" group-title="General",PROFI 24 TV
 https://live.ro24tv.ro/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PromarTV.ve@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Promar_Television.png" group-title="General",PromarTV (576p)
@@ -4525,6 +4525,8 @@ https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8
 https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8
 #EXTINF:-1 tvg-id="TelevisionOlanchana.hn@SD" tvg-logo="https://i.imgur.com/8LnLEQz.png" group-title="General",Television Olanchana (1080p)
 https://viewhn.com/canal30/live/playlist.m3u8
+#EXTINF:-1 tvg-id="TelevisionPublica.ar@SD" tvg-logo="https://i.imgur.com/XGrkzN3.png" group-title="General",Television Publica (1080p)
+http://190.128.214.97:64333/play/a008/index.m3u8
 #EXTINF:-1 tvg-id="TelevisionTarapoto.pe@SD" tvg-logo="https://i.imgur.com/Dzen7sh.png" group-title="General",Television Tarapoto (720p)
 https://live-evg11.tv360.bitel.com.pe/bitel/tvtarapotoSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="TelevisoradeOriente.ve@SD" tvg-logo="https://i.imgur.com/wFC6Xxq.png" group-title="General",Televisora de Oriente (406p)

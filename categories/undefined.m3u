@@ -625,6 +625,8 @@ https://ncdn.telewebion.ir/sina/live/playlist.m3u8
 https://ncdn.telewebion.ir/hamoon/live/playlist.m3u8
 #EXTINF:-1 tvg-id="HardKnocksFightingChampionship.pl@SD" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/13b0a6c7-4307-4c8d-9fc4-df2a4f8e8b38-hard-knocks-fighting-1602077398-width200-quality90.jpeg" group-title="Undefined",Hard Knocks Fighting Championship
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883037
+#EXTINF:-1 tvg-id="HBOLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" group-title="Undefined",HBO Latin America (720p) [Geo-blocked]
+http://15.204.246.24:8080/HBOHD/index.m3u8
 #EXTINF:-1 tvg-id="HellenicTV.uk@SD" tvg-logo="https://i.imgur.com/NE7ddhC.png" group-title="Undefined",Hellenic TV (720p) [Not 24/7]
 https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
 #EXTINF:-1 tvg-id="HewadTV.af@SD" tvg-logo="https://i.imgur.com/cK2eWUZ.png" group-title="Undefined",Hewad TV (720p) [Not 24/7]
@@ -1828,6 +1830,8 @@ https://bild-und-ton.stream/sophiatv-it/smil:sophia-tv-it.smil/playlist.m3u8
 http://88.212.15.19/live/test_sorozat_hungary_1200_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="SoundcityTV.ng@SD" tvg-logo="https://i.imgur.com/fKtPcT4.png" group-title="Undefined",Soundcity TV
 https://cs2.push2stream.com/SOUNDCITY/playlist.m3u8
+#EXTINF:-1 tvg-id="Space.ar@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png" group-title="Undefined",Space (1080p)
+http://45.171.64.30:6060/play/a04n/index.m3u8
 #EXTINF:-1 tvg-id="SparkTV.uk@SD" tvg-logo="https://i.imgur.com/svc98Kg.png" group-title="Undefined",Spark TV (1080p)
 https://candlelightmedia-sparklightlove-4-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SQCSCanal4.mx@SD" tvg-logo="https://i.imgur.com/qnx8nBP.png" group-title="Undefined",SQCS Canal 4 (1080p)
@@ -2238,6 +2242,10 @@ https://jmp2.uk/plu-59b722526996084038c01e1b.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/ffdc/mugvhogvho/mugvhogvho.m3u8
 #EXTINF:-1 tvg-id="TNTLatinAmerica.us@Center" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" group-title="Undefined",TNT Latin America (1080p)
 http://45.171.64.30:6060/play/a03i/index.m3u8
+#EXTINF:-1 tvg-id="TNTLatinAmerica.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" group-title="Undefined",TNT Latin America Brazil (720p) [Geo-blocked]
+http://15.204.246.24:8080/TNTHD/index.m3u8
+#EXTINF:-1 tvg-id="TNTLatinAmerica.us@Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" group-title="Undefined",TNT Latin America Colombia (1080p)
+http://181.78.211.244:8005/play/a09g/index.m3u8
 #EXTINF:-1 tvg-id="TNVPlanet.ru@SD" tvg-logo="https://i.imgur.com/ijA1zDw.png" group-title="Undefined",TNV-Planet (576p)
 https://fs.uplink.kz/tnv/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="TNVTatarstan.ru@SD" tvg-logo="https://i.imgur.com/58u9TQT.png" group-title="Undefined",TNV-Tatarstan (720p)
@@ -2763,6 +2771,8 @@ https://master.tucableip.com/univalletv/playlist.m3u8
 https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="UniversalTVLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/960px-Universal_TV_logo.svg.png" group-title="Undefined",Universal TV Latin America (1080p)
 http://15.204.246.24:8080/UniversalHD/index.m3u8
+#EXTINF:-1 tvg-id="UniversalTVLatinAmerica.us@Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/960px-Universal_TV_logo.svg.png" group-title="Undefined",Universal TV Latin America Colombia (1080p)
+http://38.134.250.110:8000/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="UATV.cl@SD" tvg-logo="https://i.imgur.com/BdZGS66.png" group-title="Undefined",Universidad Autónoma Temuco (UATV) (1080p) [Not 24/7]
 https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="UniversitariaTV.pe@SD" tvg-logo="https://i.imgur.com/OcDimHX.png" group-title="Undefined",Universitaria TV (720p)

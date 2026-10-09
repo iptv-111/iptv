@@ -1726,6 +1726,8 @@ https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8
 https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8
 #EXTINF:-1 tvg-id="GolfChannel.cz@SD" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/golfchannel.png" group-title="Sports",Golf Channel
 https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8
+#EXTINF:-1 tvg-id="GolfZone.pl@SD" tvg-logo="https://i.ibb.co/ZR8cRj8d/Golf-Zone.png" group-title="Sports",Golf Zone (1080p)
+http://57.128.231.171:8080/248/index.m3u8
 #EXTINF:-1 tvg-id="GolyaTV.hu@SD" tvg-logo="https://i.imgur.com/TeK6Pzb.png" group-title="Entertainment",Gólya TV (480p) [Geo-blocked]
 https://stream.streaming4u.hu/GolyaTV/index.m3u8
 #EXTINF:-1 tvg-id="Gong.fr@SD" tvg-logo="https://i.imgur.com/lA9UFMG.png" group-title="Animation",Gong (1080p)
@@ -2740,6 +2742,8 @@ http://176.61.157.250/Nickelodeon/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.hu@SD" tvg-logo="https://i.imgur.com/fXs8f6a.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",Nickelodeon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.19/live/test_nickelodeon_hu_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.it@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nickelodeon
+https://zg9mhld.s.gy/HD-NICK-IT.ts
 #EXTINF:-1 tvg-id="Nickelodeon.ro@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png" http-referrer="https://cool-tv.net/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Kids",Nickelodeon
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
@@ -3599,9 +3603,6 @@ https://7nyaler.streamhostingcdn.top/stream/47/index.m3u8
 https://7nyaler.streamhostingcdn.top/stream/5/index.m3u8
 #EXTINF:-1 tvg-id="Prima.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Prima_2013.png/960px-Prima_2013.png" group-title="Undefined",Prima (1080p)
 http://88.212.15.19/live/prima_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="PrimaComedy.ro@SD" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/c/c6/Prima_Comedy_%282022-.n.v.%29.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0 Win64 x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/109.0.0.0 Safari/537.36" group-title="Comedy",Prima Comedy (576p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0 Win64 x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://dokagents.site/live/primacomedy/mono.m3u8
 #EXTINF:-1 tvg-id="PrimaCool.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Prima_Cool_logo_zelen%C3%A9.png/960px-Prima_Cool_logo_zelen%C3%A9.png" group-title="Undefined",Prima Cool
 http://88.212.15.19/live/prima_cool_cz_avc/index.m3u8
 #EXTINF:-1 tvg-id="PrimaCoolSK.sk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Prima_COOL_SK_logo.png" group-title="Undefined",Prima Cool SK (1080p)
@@ -4094,6 +4095,8 @@ https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
 https://www.rtmplus.cz/live/1-playlist.m3u8
 #EXTINF:-1 tvg-id="RTMTV.it@SD" tvg-logo="https://i.imgur.com/w9Twxsi.png" group-title="General",RTM TV (1080p)
 https://5f22d76e220e1.streamlock.net/rtm/rtm/playlist.m3u8
+#EXTINF:-1 tvg-id="RTNChicago.us@SD" tvg-logo="https://i.ibb.co/wwchqYk/889dc1-937ba3d8d4ed4331a668a1c544766318-mv2.png" group-title="Religious",RTN Chicago (480p)
+https://651c69fa2ff4e.streamlock.net/3707/live1/chunklist.m3u8
 #EXTINF:-1 tvg-id="RTP.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/8/86/Logo_Radio_Televisione_Peloritana.svg/512px-Logo_Radio_Televisione_Peloritana.svg.png" group-title="Undefined",RTP (404p)
 https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
 #EXTINF:-1 tvg-id="RTP1.pt@HD" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp1_2026.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0" group-title="General",RTP 1 (720p) [Not 24/7]
