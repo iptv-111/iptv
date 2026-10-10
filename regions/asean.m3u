@@ -766,8 +766,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7
 #EXTINF:-1 tvg-id="RTPMundo.pt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/RTP_Mundo.svg/1920px-RTP_Mundo.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0" group-title="General",RTP Mundo (504p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="STomSings.us@HD" tvg-logo="https://i.postimg.cc/5tfB3Ktv/In-Shot-20260818-133542271.png" group-title="Kids",S Tom Sings (1080p)
-https://vodcdn.bamboo-cloud.com/livehls/6a8408ae0630440c2f39aec3/master.m3u8
 #EXTINF:-1 tvg-id="SalamTV.id@SD" tvg-logo="https://i.imgur.com/00Ifzgo.png" http-referrer="salamtelevisi.com" group-title="Undefined",Salam TV (720p)
 #EXTVLCOPT:http-referrer=salamtelevisi.com
 https://live.salamtelevisi.com/hls/0/stream.m3u8

@@ -35,6 +35,8 @@ https://183.bozztv.com/giatv/giatv-AbejalesTV/AbejalesTV/playlist.m3u8
 http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6945/index.m3u8
 #EXTINF:-1 tvg-id="Acasa.ro@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Acasa_2022_flat.png/960px-Acasa_2022_flat.png" group-title="Entertainment",Acasa HD
 http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6988/index.m3u8
+#EXTINF:-1 tvg-id="AccesDirect.ro@SD" tvg-logo="https://assets.antenaplay.ro/2026/05/07/BBOXtLtkSKfKAK5pSBag.png" group-title="Entertainment",Acces Direct (576p)
+https://live77cdn2.antenaplay.ro/live2_fast/ch6/stream.m3u8
 #EXTINF:-1 tvg-id="AcheloosTV.gr@SD" tvg-logo="https://i.imgur.com/5SVMxcu.png" group-title="General",Acheloos TV (576p)
 https://acheloostv.streamings.gr/live/stream/index.m3u8
 #EXTINF:-1 tvg-id="Action24.gr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Action24-logo-small.png" group-title="Movies",Action 24 (1080p) [Not 24/7]
@@ -101,6 +103,8 @@ https://video.angelustv.ro/hls/angelustv.m3u8
 https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8
 #EXTINF:-1 tvg-id="Antena1.ro@SD" tvg-logo="https://i.imgur.com/EPmwuuv.png" group-title="General",Antena 1 (1080p)
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/7002/index.m3u8
+#EXTINF:-1 tvg-id="Antena3CNN.ro@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/Antena_3_CNN_2022_v1.png/revision/latest/scale-to-width-down/512" group-title="News",Antena 3 CNN (576p)
+https://live4dai.antenaplay.ro/live2_aws4_sdi11/live2_aws4_sdi11_600k.m3u8
 #EXTINF:-1 tvg-id="AntenaStars.ro@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/A_Stars_2022.png/revision/latest/scale-to-width-down/300" group-title="Entertainment",Antena Stars (720p)
 https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
 #EXTINF:-1 tvg-id="AragonTVInternacional.es@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Arag%C3%B3n_Internacional.png/revision/latest/scale-to-width-down/512" group-title="General;Public",Aragon TV Internacional (720p) [Not 24/7]
@@ -527,6 +531,8 @@ https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=67c0c39764ad6f7dab07aa0b&AV_APPNAME=[ADS.APP_NAME]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_CCPA=[ADS.US_PRIVACY]&AV_CLIENT_SECTION=ftv_secrets&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_CAT=IAB7&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_EPISODE=&AV_CONTENT_GENRE=fashion+and+lifestyle&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_KEYWORDS=&AV_CONTENT_LANGUAGE=en&AV_CONTENT_LENGTH=&AV_CONTENT_NETWORK=&AV_CONTENT_PROVIDER=FTV&AV_CONTENT_RATING=R&AV_CONTENT_SEASON=&AV_CONTENT_SERIES=&AV_CONTENT_TITLE=&AV_CONTENT_URL=&AV_DNT=[ADS.DNT]&AV_GDPR=[ADS.GDPR]&AV_HEIGHT=[ADS.H]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_OSVERS=[ADS.DEVICE_OSV]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_VAUTH=[ADS.VAUTH]&AV_WIDTH=[ADS.W]&Content_Id=[ADS.ADS_CONTENTID]&ads.vidaa_ads_param=1191723366&cb=[CACHEBUSTER]&content_channel_name=ftv+-fashiontv+Secrets&content_livestream=1
 #EXTINF:-1 tvg-id="FastFunBox.nl@SD" tvg-logo="https://i.imgur.com/a9ZtP17.png" group-title="Sports",Fast&FunBox
 https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="FavoritTV2.ro@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/Favorit_TV_2_2026.png/revision/latest/scale-to-width-down/1000?cb=20260611201305" group-title="Music",Favorit TV2
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-canal-33/live_hq?offsetSeconds=0
 #EXTINF:-1 tvg-id="FBTV.tr@SD" tvg-logo="https://i.imgur.com/qBVqtYd.png" group-title="Sports",FB TV
 http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Federalnatelevizija.ba@SD" tvg-logo="https://i.imgur.com/astdRrE.png" group-title="General",Federalna televizija (720p)
@@ -699,10 +705,18 @@ https://live.tvimpact.ro:8088/hevc/index.m3u8
 https://online.tvimpact.live/hls/dancetv.m3u8
 #EXTINF:-1 tvg-id="ImpactTVManele.ro@SD" tvg-logo="https://i.imgur.com/G5mNdpE.png" group-title="Music",Impact TV Manele (1080p)
 https://online.tvimpact.live/hls/impact_tv.m3u8
+#EXTINF:-1 tvg-id="InPuiiMei.ro@SD" tvg-logo="https://assets.antenaplay.ro/2026/05/07/aUyRzOHx0tkHM6SXjA9K.png" group-title="Comedy",In Puii Mei (576p)
+https://live77cdn2.antenaplay.ro/live2_fast/ch7/stream.m3u8
 #EXTINF:-1 tvg-id="InformatiaTV.ro@SD" tvg-logo="https://i.imgur.com/P1ZbVRg.png" group-title="News",Informatia TV
 https://informatia.streamnet.ro/mobile_tv/informatiatv.m3u8
+#EXTINF:-1 tvg-id="IntermediaTV.ro@SD" tvg-logo="https://i.imgur.com/cNXM4Mu.png" group-title="General",Intermedia TV (576p)
+https://live.intermediatv.ro/ram/playlist.m3u8
 #EXTINF:-1 tvg-id="IonianTV.gr@SD" tvg-logo="https://i.imgur.com/JILN3kS.png" group-title="General",Ionian Channel (1080p) [Not 24/7]
 http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
+#EXTINF:-1 tvg-id="iRoast.ro@SD" tvg-logo="https://assets.antenaplay.ro/2026/05/07/1CKR5EoJo1qeSZCe9lkT.png" group-title="Comedy",iRoast (576p)
+https://live77cdn2.antenaplay.ro/live2_fast/ch3/stream.m3u8
+#EXTINF:-1 tvg-id="iUmor.ro@SD" tvg-logo="https://assets.antenaplay.ro/2026/05/07/pB32HtJzC1i0xlH75Rb0.png" group-title="Comedy",iUmor (576p)
+https://live77cdn2.antenaplay.ro/live2_fast/ch2/stream.m3u8
 #EXTINF:-1 tvg-id="JazzTV.mk@SD" tvg-logo="https://i.imgur.com/CbQlSFX.png" group-title="Music",Jazz TV (1080p) [Not 24/7]
 https://stream.nasatv.com.mk/jazztv/hls/jazztv_live.m3u8
 #EXTINF:-1 tvg-id="JimJamEurope.uk@SD" tvg-logo="https://i.imgur.com/ODhkYyx.png" group-title="Kids",JimJam Europe (720p)
@@ -921,7 +935,7 @@ https://edge8.pink.rs/narodnatv/index.m3u8
 https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
 #EXTINF:-1 tvg-id="NasulTV.ro@SD" tvg-logo="https://i.imgur.com/MoguWme.png" group-title="General",Nasul TV (720p) [Not 24/7]
 https://live.nasul.tv/live/stream.m3u8
-#EXTINF:-1 tvg-id="National24Plus.ro@SD" tvg-logo="https://i.imgur.com/VxBdga3.png" group-title="General",National 24 Plus
+#EXTINF:-1 tvg-id="National24Plus.ro@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/National_24_Plus_TV.svg/revision/latest/scale-to-width-down/1000?cb=20250202201124" group-title="General",National 24 Plus
 https://hls01ns.antenaplay.ro/hls/n24-plus-sd/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Documentary",National Geographic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
@@ -945,8 +959,10 @@ https://flash1.bogulus1.cfd/wild/usergenr9qsi5gt.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Documentary",National Geographic Wild
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://nord.ayakkabiparti.lol/natgeowild/index.m3u8
-#EXTINF:-1 tvg-id="NationalTV.ro@SD" tvg-logo="https://i.imgur.com/KHzUIwG.png" group-title="General",National TV
+#EXTINF:-1 tvg-id="NationalTV.ro@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/National_TV_2025.png" group-title="General",National TV
 https://hls01ns.antenaplay.ro/hls/national-tv-sd/index.m3u8
+#EXTINF:-1 tvg-id="NationalTV2.ro@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/National_TV_2_2026.png/revision/latest/scale-to-width-down/1000?cb=20260611184456" group-title="Undefined",National TV2
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-telestar1/live_hq?offsetSeconds=0
 #EXTINF:-1 tvg-id="NaturalTV.tr@SD" tvg-logo="https://i.imgur.com/rfcJ674.png" group-title="Culture",Natural TV (720p) [Not 24/7]
 http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="NBTWorld.th@SD" tvg-logo="https://i.imgur.com/GUQhLeg.png" group-title="General",NBT World (1080p)
@@ -1090,17 +1106,17 @@ https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PowerTurkTV.tr@SD" tvg-logo="https://i.imgur.com/9OPoXQG.png" group-title="Undefined",PowerTürk TV (720p)
 https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8
-#EXTINF:-1 tvg-id="PrimaNews.ro@SD" tvg-logo="https://i.imgur.com/wlqGfU2.png" group-title="News",Prima News
+#EXTINF:-1 tvg-id="PrimaNews.ro@SD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Prima_News_logo_2022.svg/1280px-Prima_News_logo_2022.svg.png" group-title="News",Prima News
 https://hls02ns.antenaplay.ro/hls/prima-news-hd/index.m3u8
 #EXTINF:-1 tvg-id="PrimaTV.ro@HD" tvg-logo="https://i.imgur.com/p2umWAT.png" group-title="General",Prima TV HD
 http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6995/index.m3u8
-#EXTINF:-1 tvg-id="ProArena.ro@HD" tvg-logo="https://i.imgur.com/KQmB9Cc.png" group-title="Undefined",Pro Arena HD
+#EXTINF:-1 tvg-id="ProArena.ro@HD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/PRO_Arena_Logo_%282022-present%29.svg/960px-PRO_Arena_Logo_%282022-present%29.svg.png" group-title="Undefined",Pro Arena HD
 http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6990/index.m3u8
-#EXTINF:-1 tvg-id="ProCinema.ro@SD" tvg-logo="https://i.imgur.com/TvHFGwZ.png" group-title="Movies",Pro Cinema
+#EXTINF:-1 tvg-id="ProCinema.ro@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/Pro_Cinema_logo_2022.svg/revision/latest/scale-to-width-down/1000?cb=20220419100521" group-title="Movies",Pro Cinema
 http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6951/index.m3u8
-#EXTINF:-1 tvg-id="PROTV.ro@HD" tvg-logo="https://i.imgur.com/zVk3WlT.png" group-title="Undefined",PRO TV HD
+#EXTINF:-1 tvg-id="PROTV.ro@HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Pro_TV_Aug_2025.svg/revision/latest/scale-to-width-down/1000?cb=20250810105837" group-title="Undefined",PRO TV HD
 http://eb4b8dcf.kablakaka.ru/iptv/3KZ2W9GEEY49ZV/6997/index.m3u8
-#EXTINF:-1 tvg-id="PROTVNews.ro@SD" tvg-logo="" group-title="News",Pro TV News (1080p)
+#EXTINF:-1 tvg-id="PROTVNews.ro@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/85/Pro_TV_News_%282017%29.png/revision/latest?cb=20171005155753" group-title="News",Pro TV News (1080p)
 https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-id="PROFI24TV.ro@SD" tvg-logo="https://profi24.ro/wp-content/uploads/2025/03/Logo_Profi24_Nou_Logo_Profi24_Landscape_Logo_Profi24_Landscape-e1742981714264.png" group-title="General",PROFI 24 TV
 https://live.ro24tv.ro/hls/stream.m3u8
@@ -1172,6 +1188,8 @@ https://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8
 https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8
 #EXTINF:-1 tvg-id="RockTV.ro@SD" tvg-logo="https://i.imgur.com/VB88A5V.png" group-title="Music",Rock TV (720p)
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
+#EXTINF:-1 tvg-id="RomaniaTV.ro@SD" tvg-logo="https://i.imgur.com/ZIfEp5I.png" group-title="Undefined",Romania TV (576p)
+https://hls01ns.antenaplay.ro/hls/romania-tv-sd/index.m3u8
 #EXTINF:-1 tvg-id="ROTVValencia.es@SD" tvg-logo="https://i.imgur.com/0TDnVQ4.png" group-title="Entertainment",ROTV Valencia (720p)
 https://rotv.romediavalencia.com:3839/live/rotvlive.m3u8
 #EXTINF:-1 tvg-id="RT.ru@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142401_ld_h15_aa.png?lock=720x540" group-title="News",RT (720p)
@@ -1248,8 +1266,6 @@ https://stream.rtvze.ba/live/123/123.m3u8
 https://corestream.siteyaptim.live/s-sport/index.m3u8
 #EXTINF:-1 tvg-id="SSport2.tr@SD" tvg-logo="https://i.imgur.com/2jIItAy.png" group-title="Sports",S Sport 2 (720p)
 https://corestream.siteyaptim.live/s-sport2/index.m3u8
-#EXTINF:-1 tvg-id="STomSings.us@HD" tvg-logo="https://i.postimg.cc/5tfB3Ktv/In-Shot-20260818-133542271.png" group-title="Kids",S Tom Sings (1080p)
-https://vodcdn.bamboo-cloud.com/livehls/6a8408ae0630440c2f39aec3/master.m3u8
 #EXTINF:-1 tvg-id="SamiakiTV.gr@SD" tvg-logo="https://i.imgur.com/9Pf1we6.png" group-title="Undefined",Samiaki TV (540p) [Not 24/7]
 http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
 #EXTINF:-1 tvg-id="SandzakTV.rs@SD" tvg-logo="https://i.imgur.com/lm9Fgsp.png" group-title="Undefined",Sandzak TV (576p)
@@ -1437,6 +1453,8 @@ https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_sd/index.m3u8
 https://channels.trace.plus/Traceprod/URBAN_INTER_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraditionalTV.ro@SD" tvg-logo="https://i.ibb.co/G5bNH48/Traditional-TV-HD.png" group-title="Music",Traditional TV (1080p)
 http://83.103.149.75:8085/udp/239.30.0.9:4000
+#EXTINF:-1 tvg-id="TraLaLaDSN.ro@SD" tvg-logo="https://tralaladsn.ro/assets/identity/logo.svg" group-title="Kids",TraLaLa DSN
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-inedit-tv/live_hq?offsetSeconds=0
 #EXTINF:-1 tvg-id="TravelTV.bg@SD" tvg-logo="https://i.imgur.com/5xllfed.png" group-title="Travel",Travel TV (576p)
 https://streamer103.neterra.tv/travel/live.m3u8
 #EXTINF:-1 tvg-id="TrendTV.hr@SD" tvg-logo="https://i.imgur.com/4SmNISY.jpg" group-title="General",Trend TV (480p)
@@ -1722,7 +1740,7 @@ http://213.91.179.28:8000/play/a053
 https://tringliveviz.akamaized.net/delta/105/out/u/qwaszxerdfcvrtryuy.m3u8
 #EXTINF:-1 tvg-id="VoyoSport1.ro@HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/VoyoSport1.svg" group-title="Sports",Voyo Sport 1 (1080p)
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus16/live_fullhd?offsetSeconds=0
-#EXTINF:-1 tvg-id="VPTV.ro@SD" tvg-logo="" group-title="Undefined",VP TV
+#EXTINF:-1 tvg-id="VPTV.ro@SD" tvg-logo="https://www.vptv.ro/wp-content/uploads/2016/02/sigla-vp-tv.gif" group-title="Undefined",VP TV
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-vp-tv/live_lq?offsetSeconds=0
 #EXTINF:-1 tvg-id="WildEarth.za@SD" tvg-logo="https://i.imgur.com/Vhv5gjN.png" group-title="Documentary;Education;Outdoor;Relax",WildEarth (1080p)
 https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8

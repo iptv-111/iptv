@@ -9,8 +9,6 @@ https://cdn-4.pishow.tv/live/1007/master.m3u8
 https://sscsott.com/7news/live/index.m3u8
 #EXTINF:-1 tvg-id="7SMusic.in@SD" tvg-logo="https://i.imgur.com/zDiIhdN.png" group-title="Music",7S Music (576p)
 https://cdn.pishow.tv/ott/live/1257/master.m3u8
-#EXTINF:-1 tvg-id="8XM.pk@SD" tvg-logo="https://i.imgur.com/KLrfKRn.png" group-title="Music",8XM (576p)
-http://115.42.65.142:9981/stream/channelid/582886861
 #EXTINF:-1 tvg-id="9XJhakaas.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s90012_ld_h15_aa.png?lock=720x540" group-title="Music",9X Jhakaas (576p)
 https://cdn-3.pishow.tv/live/6/master.m3u8
 #EXTINF:-1 tvg-id="9XM.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9XM/images/LOGO_HD/image.png" group-title="Music",9XM (1080p)
@@ -835,8 +833,6 @@ http://tvsen5.aynascope.net/RtvHD/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ruposhibangla.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="RupasiBangla.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143733_ld_h15_aa.png?lock=720x540" group-title="Entertainment",Rupasi Bangla (720p)
 https://cdn-4.pishow.tv/live/1039/master.m3u8
-#EXTINF:-1 tvg-id="STomSings.us@HD" tvg-logo="https://i.postimg.cc/5tfB3Ktv/In-Shot-20260818-133542271.png" group-title="Kids",S Tom Sings (1080p)
-https://vodcdn.bamboo-cloud.com/livehls/6a8408ae0630440c2f39aec3/master.m3u8
 #EXTINF:-1 tvg-id="SaamTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SAAM_TV/images/LOGO_HD/image.png" group-title="Undefined",Saam TV
 https://cdn-3.pishow.tv/live/437/master.m3u8
 #EXTINF:-1 tvg-id="SABTV.pk@SD" tvg-logo="https://i.imgur.com/hC7Sidr.png" group-title="Entertainment",SAB TV (1080p)
@@ -1132,6 +1128,8 @@ https://yuppparoriglin.akamaized.net/181224/smil:wowkidzhindi.smil/playlist.m3u8
 https://customer-ujex1meek7koqd9x.cloudflarestream.com/4f0b316cdb0fbb7f8ca93860ed11d38b/manifest/video.m3u8
 #EXTINF:-1 tvg-id="YOYInternational.id@HD" tvg-logo="https://hosting.renderforestsites.com/35126779/1657983/media/3ed50b4273b16759c16450206bec0196.png" group-title="General",YOY International (576p)
 https://gist.githubusercontent.com/iptvonlinetv/8a6b2f12e5e968537378f1245cea02c9/raw/78bf84476f8e24cc8ea9d5ac24855078c61b18db/udp305.575.530:3030.m3u8
+#EXTINF:-1 tvg-id="YRFMusic.in@Nepal" tvg-logo="https://i.imgur.com/mxx05Z9.png" group-title="Music",YRF Music Nepal
+https://vidaa.kableone.com/hls/live/2111218/YrfMusic/1.m3u8
 #EXTINF:-1 tvg-id="ZeeAction.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022K5ZV.png?lock=720x540" group-title="Movies",Zee Action (576p)
 http://107.167.16.138/zeeaction/index.m3u8?token=test
 #EXTINF:-1 tvg-id="ZeeBangla.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA_HD/images/LOGO_HD/LOGO_HD_image.png" group-title="Entertainment",Zee Bangla (576p)
@@ -1166,5 +1164,7 @@ http://107.167.16.138/zing/index.m3u8?token=test
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Zoom.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZOOM/images/LOGO_HD/image.png" group-title="Music",Zoom (720p)
 https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
+#EXTINF:-1 tvg-id="Zoom.in@Nepal" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZOOM/images/LOGO_HD/image.png" group-title="Music",Zoom Nepal (720p)
+https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1 tvg-id="RTRPlaneta.ru@Asia" tvg-logo="https://i.imgur.com/0YEahxs.png" group-title="General",Россия-РТР
 https://streaming.televizor-24-tochka.ru/live/211.m3u8

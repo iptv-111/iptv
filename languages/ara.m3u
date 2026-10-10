@@ -126,6 +126,8 @@ https://amg01480-alshallalfze-alshallal-ono-q0hfg.amagi.tv/playlist.m3u8
 http://185.9.2.18/chid_144/index.m3u8
 #EXTINF:-1 tvg-id="AlSharqiyaMinKabla.ae@SD" tvg-logo="https://i.imgur.com/m4qheI4.png" group-title="General",Al Sharqiya Min Kabla (1080p)
 https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlSharqiyaNews.iq@SD" tvg-logo="https://i.imgur.com/PeAcXB9.png" group-title="News",Al Sharqiya News (1080p)
+https://indexforce.com/newshighres/mystream/playlist.m3u8
 #EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa@SD" tvg-logo="https://aloula.faulio.com/storage/mediagallery/33/92/fullhd_879e557011826f507a045b4e0b4c3b57ba93edae.png" group-title="Religious",Al Sunnah Al Nabawiyah TV (720p)
 http://m.live.net.sa:1935/live/sunnah/gmswf.m3u8
 #EXTINF:-1 tvg-id="AlWilayah.ir@SD" tvg-logo="https://i.imgur.com/OI1HQv5.png" group-title="Religious",Al Wilayah (720p)
@@ -144,8 +146,6 @@ https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8
 http://37.238.136.61/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AlSahatTV.ye@SD" tvg-logo="https://i.imgur.com/UVndAta.png" group-title="Religious",Al-Sahat TV (720p)
 https://assahat.b-cdn.net/Assahat/assahatobs/index.m3u8
-#EXTINF:-1 tvg-id="AlSharqiyaNews.iq@SD" tvg-logo="https://i.imgur.com/PeAcXB9.png" group-title="News",Al-Sharqiya News (1080p)
-https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
 #EXTINF:-1 tvg-id="AlSouriyaTV.sy@HD" tvg-logo="https://i.imgur.com/8FILgXT.jpeg" group-title="Family",Al-Souriya TV (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-souriya-tv/e3150760fa5fd62776225433b8c3d406/index.m3u8
 #EXTINF:-1 tvg-id="AlabbassiaTV.iq@HD" tvg-logo="https://raw.githubusercontent.com/Alabbassia2026/Alabbassia-TV-Official/main/Logo%20PNG.png" group-title="Religious",Alabbassia TV (1080p)
@@ -162,8 +162,6 @@ https://sd343444.vodu.store:3356/live/Alghadeer/index.m3u8
 https://ghaasiflu.online/alhqeqa/index.m3u8
 #EXTINF:-1 tvg-id="AlHiwarTV.uk@SD" tvg-logo="https://i.imgur.com/UjOxwdd.png" group-title="Education",Alhiwar TV (1080p) [Not 24/7]
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Alhurra.us@SD" tvg-logo="https://i.imgur.com/tiQp2sR.png" group-title="News",Alhurra (720p)
-https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/merge.m3u8
 #EXTINF:-1 tvg-id="AlikhbariaSyria.sy@SD" tvg-logo="https://alikhbariah.com/wp-content/themes/alekhbariah-custom-theme/img/logo.webp" group-title="News",Alikhbaria Syria (1080p)
 http://185.9.2.18/chid_423/index.m3u8
 #EXTINF:-1 tvg-id="AlImanTV.lb@SD" tvg-logo="https://i.imgur.com/4WKQppG.png" group-title="Religious",Aliman TV (240p) [Not 24/7]
@@ -355,8 +353,6 @@ https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_040/Stream/playlist.m3u8
 #EXTINF:-1 tvg-id="IshtarTV.iq@SD" tvg-logo="https://i.imgur.com/qzApokm.png" group-title="Culture;Music;Religious",Ishtar TV (1080p)
 https://stream.ishtartv.com/live/iShtarHD/playlist.m3u8
-#EXTINF:-1 tvg-id="JawharaTV.tn@SD" tvg-logo="https://i.imgur.com/mRSQ5bP.png" group-title="Music",Jawhara TV (720p) [Not 24/7]
-https://streaming.toutech.net/live/jtv/index.m3u8
 #EXTINF:-1 tvg-id="JeddahRadio.sa@SD" tvg-logo="https://aloula.faulio.com/storage/mediagallery/bd/f5/fullhd_527bf54a5adb56ac17f572ac2cd0801304db3baf.png" group-title="Music",Jeddah Radio (1080p)
 https://live.kwikmotion.com/sbrksajeddahradiolive/srpksajeddahradio/chunks.m3u8
 #EXTINF:-1 tvg-id="JordanArchive.jo@SD" tvg-logo="https://i.imgur.com/8UrCl4k.png" group-title="Undefined",Jordan Archive (1080p)

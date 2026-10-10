@@ -178,6 +178,8 @@ https://amg01480-alshallalfze-alshallal-ono-q0hfg.amagi.tv/playlist.m3u8
 http://185.9.2.18/chid_144/index.m3u8
 #EXTINF:-1 tvg-id="AlSharqiyaMinKabla.ae@SD" tvg-logo="https://i.imgur.com/m4qheI4.png" group-title="General",Al Sharqiya Min Kabla (1080p)
 https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlSharqiyaNews.iq@SD" tvg-logo="https://i.imgur.com/PeAcXB9.png" group-title="News",Al Sharqiya News (1080p)
+https://indexforce.com/newshighres/mystream/playlist.m3u8
 #EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa@SD" tvg-logo="https://aloula.faulio.com/storage/mediagallery/33/92/fullhd_879e557011826f507a045b4e0b4c3b57ba93edae.png" group-title="Religious",Al Sunnah Al Nabawiyah TV (720p)
 http://m.live.net.sa:1935/live/sunnah/gmswf.m3u8
 #EXTINF:-1 tvg-id="AlWilayah.ir@SD" tvg-logo="https://i.imgur.com/OI1HQv5.png" group-title="Religious",Al Wilayah (720p)
@@ -194,8 +196,6 @@ https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8
 http://37.238.136.61/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AlSahatTV.ye@SD" tvg-logo="https://i.imgur.com/UVndAta.png" group-title="Religious",Al-Sahat TV (720p)
 https://assahat.b-cdn.net/Assahat/assahatobs/index.m3u8
-#EXTINF:-1 tvg-id="AlSharqiyaNews.iq@SD" tvg-logo="https://i.imgur.com/PeAcXB9.png" group-title="News",Al-Sharqiya News (1080p)
-https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
 #EXTINF:-1 tvg-id="AlSouriyaTV.sy@HD" tvg-logo="https://i.imgur.com/8FILgXT.jpeg" group-title="Family",Al-Souriya TV (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-souriya-tv/e3150760fa5fd62776225433b8c3d406/index.m3u8
 #EXTINF:-1 tvg-id="AlZahraTVTurkic.tr@SD" tvg-logo="https://i.imgur.com/QEHKGnG.png" group-title="Religious",Al-Zahra TV Turkic (720p) [Not 24/7]
@@ -218,8 +218,6 @@ https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3
 https://sd343444.vodu.store:3356/live/Alghadeer/index.m3u8
 #EXTINF:-1 tvg-id="AlhaqeqaAldawlia.jo@SD" tvg-logo="" group-title="News",Alhaqeqa Aldawlia (1080p) [Not 24/7]
 https://ghaasiflu.online/alhqeqa/index.m3u8
-#EXTINF:-1 tvg-id="Alhurra.us@SD" tvg-logo="https://i.imgur.com/tiQp2sR.png" group-title="News",Alhurra (720p)
-https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/merge.m3u8
 #EXTINF:-1 tvg-id="DUST.us@SD" tvg-logo="https://i.imgur.com/FxYhME9.png" group-title="Movies",Alien Nation by DUST (1080p)
 https://dqi7ayt2o24fn.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="AlikhbariaSyria.sy@SD" tvg-logo="https://alikhbariah.com/wp-content/themes/alekhbariah-custom-theme/img/logo.webp" group-title="News",Alikhbaria Syria (1080p)
@@ -1484,8 +1482,6 @@ https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 https://corestream.siteyaptim.live/s-sport/index.m3u8
 #EXTINF:-1 tvg-id="SSport2.tr@SD" tvg-logo="https://i.imgur.com/2jIItAy.png" group-title="Sports",S Sport 2 (720p)
 https://corestream.siteyaptim.live/s-sport2/index.m3u8
-#EXTINF:-1 tvg-id="STomSings.us@HD" tvg-logo="https://i.postimg.cc/5tfB3Ktv/In-Shot-20260818-133542271.png" group-title="Kids",S Tom Sings (1080p)
-https://vodcdn.bamboo-cloud.com/livehls/6a8408ae0630440c2f39aec3/master.m3u8
 #EXTINF:-1 tvg-id="SabalanTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/f/f2/Ardabil_SABALAN.png" group-title="Undefined",Sabalan
 https://ncdn.telewebion.ir/sabalan/live/playlist.m3u8
 #EXTINF:-1 tvg-id="SabzTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_Golestan.png/960px-Logo_Golestan.png" group-title="General",Sabz

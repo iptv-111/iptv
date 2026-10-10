@@ -965,8 +965,6 @@ https://fs.uplink.kz/russkiy_illusion/mono.m3u8?token=onlinetv
 http://stream.mcquack.net/264/index.m3u8
 #EXTINF:-1 tvg-id="Ryzhiy.ru@SD" tvg-logo="https://i.imgur.com/acrU2IE.png" group-title="Kids",Ryzhiy (576i)
 https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="STomSings.us@HD" tvg-logo="https://i.postimg.cc/5tfB3Ktv/In-Shot-20260818-133542271.png" group-title="Kids",S Tom Sings (1080p)
-https://vodcdn.bamboo-cloud.com/livehls/6a8408ae0630440c2f39aec3/master.m3u8
 #EXTINF:-1 tvg-id="SanktPeterburg.ru@HD" tvg-logo="https://i.imgur.com/9At4oG7.png" group-title="Undefined",Sankt-Peterburg HD (720p)
 https://stream.smotrim.ru/hls2/ext_spbtv/playlist_5.m3u8
 #EXTINF:-1 tvg-id="Saphire.ru@SD" tvg-logo="https://i.imgur.com/NMOBvle.png" group-title="Series",Saphire (1080p)
