@@ -77,20 +77,12 @@ https://cloudplay-sonyliv.pages.dev/max.m3u8
 https://cloudplay-sonyliv.pages.dev/max2.m3u8
 #EXTINF:-1 tvg-id="SonyPal.in@SD",Sony Pal (576p)
 http://59.103.38.46:8000/play/a0ac/index.m3u8
-#EXTINF:-1 tvg-id="SonyPal.in@SD",Sony Pal (1080p)
-https://cloudplay-sonyliv.pages.dev/pal.m3u8
 #EXTINF:-1 tvg-id="SonyPix.in@HD",Sony Pix HD (1080p)
 https://sl.vodep39240327.workers.dev/channel/SONY+PIX+HD.m3u8
 #EXTINF:-1 tvg-id="SonySAB.in@HD",Sony SAB HD (1080p)
 https://cloudplay-sonyliv.pages.dev/sabhd.m3u8
-#EXTINF:-1 tvg-id="SonySportsTen3Hindi.in@HD",Sony Sports Ten 3 Hindi HD (1080p)
-https://cloudplay-sonyliv.pages.dev/ten3hd.m3u8
-#EXTINF:-1 tvg-id="SonySportsTen3Hindi.in@SD",Sony Sports Ten 3 Hindi (1080p)
-https://cloudplay-sonyliv.pages.dev/ten3.m3u8
 #EXTINF:-1 tvg-id="SonyWah.in@SD",Sony Wah (720p)
 https://sl.vodep39240327.workers.dev/channel/SONY+WAH.m3u8
-#EXTINF:-1 tvg-id="SonyYay.in@SD",Sony Yay! (1080p)
-https://cloudplay-sonyliv.pages.dev/yay.m3u8
 #EXTINF:-1 tvg-id="StarPlus.in@HD",StarPlus HD (1080i)
 http://202.70.146.135:8000/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="StarPlus.in@HD",StarPlus HD (1080p) [Geo-blocked]
