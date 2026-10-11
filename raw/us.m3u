@@ -2028,3 +2028,6 @@ https://barinaslive1.boldmss.com/FX/FX.isml/FX.m3u8
 https://barinaslive1.boldmss.com/NATGEO/NATGEO.isml/NATGEO.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png" group-title="Movies",Cinecanal (1080p)
 https://barinaslive1.boldmss.com/CINECANAL/CINECANAL.isml/CINECANAL.m3u8
+#EXTINF:-1 tvg-id="ESPN7LatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Sports",ESPN 7 Latin America (720p) [Geo-blocked]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn6-mux/playlist.m3u8

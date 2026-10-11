@@ -666,8 +666,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4065
 http://31.148.48.15/Solnce/index.m3u8
 #EXTINF:-1 tvg-id="Sonic.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONIC/images/LOGO_HD/image.png" group-title="Kids",Sonic (576p)
 http://103.151.60.162:2122/play/a02v/index.m3u8?hls
-#EXTINF:-1 tvg-id="SonyYay.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png?lock=720x540" group-title="Animation;Kids",Sony Yay! (1080p)
-https://cloudplay-sonyliv.pages.dev/yay.m3u8
 #EXTINF:-1 tvg-id="SpacetoonArabic.ae@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="Animation;Kids",Spacetoon Arabic (576p)
 https://live-uae-next.spacetoongo.com/ST_MENA_NEXT/hls/r9p2hjipmw2kl.m3u8
 #EXTINF:-1 tvg-id="SpongeBobSchwammkopf.de@DACH" tvg-logo="https://images.pluto.tv/channels/5d00e8adaab96b5635b2a005/colorLogoPNG.png" group-title="Kids",SpongeBob Schwammkopf (720p)

@@ -1128,8 +1128,6 @@ http://103.151.60.162:2122/play/a02v/index.m3u8?hls
 http://103.151.60.162:2122/play/a023/index.m3u8?hls
 #EXTINF:-1 tvg-id="SonySportsTen5.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png" group-title="Bengali",Sony Sports Ten 5 (576p)
 http://103.151.60.162:2122/play/a028/index.m3u8?hls
-#EXTINF:-1 tvg-id="SonyYay.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png?lock=720x540" group-title="Bengali",Sony Yay! (1080p)
-https://cloudplay-sonyliv.pages.dev/yay.m3u8
 #EXTINF:-1 tvg-id="StarJalsha.in@SD" tvg-logo="https://i.imgur.com/IlufzR5.png" group-title="Bengali",Star Jalsha (576p)
 http://103.151.60.162:2122/play/a00w/index.m3u8?hls
 #EXTINF:-1 tvg-id="StarSports3.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_3/images/LOGO_HD/image.png" group-title="Bengali",Star Sports 3 (576p)
@@ -11171,22 +11169,18 @@ https://cloudplay-sonyliv.pages.dev/max.m3u8
 https://cloudplay-sonyliv.pages.dev/max2.m3u8
 #EXTINF:-1 tvg-id="SonyMax.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540" group-title="Hindi",Sony Max HD (1080p)
 https://cloudplay-sonyliv.pages.dev/maxhd.m3u8
-#EXTINF:-1 tvg-id="SonyPal.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s157973_ld_h15_aa.png?lock=720x540" group-title="Hindi",Sony Pal (1080p)
-https://cloudplay-sonyliv.pages.dev/pal.m3u8
+#EXTINF:-1 tvg-id="SonyPal.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s157973_ld_h15_aa.png?lock=720x540" group-title="Hindi",Sony Pal (576p)
+http://59.103.38.46:8000/play/a0ac/index.m3u8
 #EXTINF:-1 tvg-id="SonyPix.in@HD" tvg-logo="https://i.postimg.cc/Z5G8j67L/PIX-HD-WHITE.png" group-title="Hindi",Sony Pix HD (1080p)
 https://sl.vodep39240327.workers.dev/channel/SONY+PIX+HD.m3u8
 #EXTINF:-1 tvg-id="SonySAB.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s159099_ld_h15_ab.png?lock=720x540" group-title="Hindi",Sony SAB (576p)
 http://103.151.60.162:2122/play/a01q/index.m3u8?hls
 #EXTINF:-1 tvg-id="SonySAB.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s159099_ld_h15_ab.png?lock=720x540" group-title="Hindi",Sony SAB HD (1080p)
 https://cloudplay-sonyliv.pages.dev/sabhd.m3u8
-#EXTINF:-1 tvg-id="SonySportsTen3Hindi.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540" group-title="Hindi",Sony Sports Ten 3 Hindi (1080p)
-https://cloudplay-sonyliv.pages.dev/ten3.m3u8
-#EXTINF:-1 tvg-id="SonySportsTen3Hindi.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540" group-title="Hindi",Sony Sports Ten 3 Hindi HD (1080p)
-https://cloudplay-sonyliv.pages.dev/ten3hd.m3u8
+#EXTINF:-1 tvg-id="SonySportsTen3Hindi.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540" group-title="Hindi",Sony Sports Ten 3 Hindi (576p)
+http://103.151.60.162:2122/play/a01t/index.m3u8?hls
 #EXTINF:-1 tvg-id="SonyWah.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s157974_ld_h15_aa.png?lock=720x540" group-title="Hindi",Sony Wah (720p)
 https://sl.vodep39240327.workers.dev/channel/SONY+WAH.m3u8
-#EXTINF:-1 tvg-id="SonyYay.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png?lock=720x540" group-title="Hindi",Sony Yay! (1080p)
-https://cloudplay-sonyliv.pages.dev/yay.m3u8
 #EXTINF:-1 tvg-id="StarGold2.in@SD" tvg-logo="https://i.imgur.com/G0ZfzZr.png" group-title="Hindi",Star Gold 2 (576p)
 http://107.167.16.138/stargold2/index.m3u8?token=test
 #EXTINF:-1 tvg-id="StarGold2.in@HD" tvg-logo="https://i.imgur.com/G0ZfzZr.png" group-title="Hindi",Star Gold 2 HD (1080p)
@@ -12810,8 +12804,6 @@ https://cdn-3.pishow.tv/live/1135/master.m3u8
 http://103.151.60.162:2122/play/a02v/index.m3u8?hls
 #EXTINF:-1 tvg-id="SonySportsTen4.in@Kannada" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyTen4Kan.png" group-title="Kannada",Sony Sports Ten 4 Kannada (576p)
 http://103.151.60.162:2122/play/a021/index.m3u8?hls
-#EXTINF:-1 tvg-id="SonyYay.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png?lock=720x540" group-title="Kannada",Sony Yay! (1080p)
-https://cloudplay-sonyliv.pages.dev/yay.m3u8
 #EXTINF:-1 tvg-id="StarSports1.in@SD" tvg-logo="https://i.imgur.com/E5jjKHI.png" group-title="Kannada",Star Sports 1 (576p)
 http://51.75.127.199:3141/starsports1/index.m3u8
 #EXTINF:-1 tvg-id="SuvarnaNews.in@SD" tvg-logo="https://i.imgur.com/0H1HObK.png" group-title="Kannada",Suvarna News SD (576p)
@@ -13561,8 +13553,6 @@ http://103.151.60.162:2122/play/a02v/index.m3u8?hls
 http://103.185.24.134:3001/SonyTenSports1/index.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen5.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png" group-title="Malayalam",Sony Sports Ten 5 (576p)
 http://103.151.60.162:2122/play/a028/index.m3u8?hls
-#EXTINF:-1 tvg-id="SonyYay.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png?lock=720x540" group-title="Malayalam",Sony Yay! (1080p)
-https://cloudplay-sonyliv.pages.dev/yay.m3u8
 #EXTINF:-1 tvg-id="StarSports3.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_3/images/LOGO_HD/image.png" group-title="Malayalam",Star Sports 3 (576p)
 http://103.151.60.162:2122/play/a029/index.m3u8?hls
 #EXTINF:-1 tvg-id="StarSportsSelect1.in@HD" tvg-logo="https://i.imgur.com/Mh9tKPx.png" group-title="Malayalam",Star Sports Select 1 HD (1080p)
@@ -13623,8 +13613,6 @@ https://cdn-3.pishow.tv/live/1229/master.m3u8
 http://103.151.60.162:2122/play/a02v/index.m3u8?hls
 #EXTINF:-1 tvg-id="SonyMarathi.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s157970_ld_h15_aa.png?lock=720x540" group-title="Marathi",Sony Marathi (576p)
 http://107.167.16.138/sonymarathi/index.m3u8?token=test
-#EXTINF:-1 tvg-id="SonyYay.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png?lock=720x540" group-title="Marathi",Sony Yay! (1080p)
-https://cloudplay-sonyliv.pages.dev/yay.m3u8
 #EXTINF:-1 tvg-id="StarSports1Hindi.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD_HINDI/images/LOGO_HD/image.png" group-title="Marathi",Star Sports 1 Hindi (1080p)
 http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 tvg-id="TopNewsMarathi.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/topnewsmarathi.png" group-title="Marathi",Top News Marathi (1080p)
@@ -14031,8 +14019,6 @@ https://stream.hydeinnovations.com/tvwest-flussonic/index.m3u8
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ef4ea632b77a480ebd77106968aa99a9/index.m3u8
 #EXTINF:-1 tvg-id="KalingaTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KALINGA_TV/images/LOGO_HD/image.png" group-title="Oriya (macrolanguage)",Kalinga TV (720p)
 https://server.thelegitpro.in/kalingatv/kalingatv/index.m3u8
-#EXTINF:-1 tvg-id="SonyYay.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png?lock=720x540" group-title="Oriya (macrolanguage)",Sony Yay! (1080p)
-https://cloudplay-sonyliv.pages.dev/yay.m3u8
 #EXTINF:-1 tvg-id="StarKiran.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143820_ld_h15_aa.png?lock=720x540" group-title="Oriya (macrolanguage)",Star Kiran (576p)
 http://103.151.60.162:2122/play/a032/index.m3u8?hls
 #EXTINF:-1 tvg-id="TarangTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143927_ld_h15_aa.png?lock=720x540" group-title="Oriya (macrolanguage)",Tarang TV (576p)
@@ -18616,8 +18602,8 @@ https://live-evg11.tv360.bitel.com.pe/bitel/mastvSRT/playlist.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/canalmulti24/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalMundoVision.co@SD" tvg-logo="https://i.imgur.com/zRqfJuj.png" group-title="Spanish",Canal Mundo Visión (720p) [Not 24/7]
 https://movil.ejeserver.com/live/mundovisiontv.m3u8
-#EXTINF:-1 tvg-id="CanalN.pe@SD" tvg-logo="https://i.imgur.com/Xytvw3J.png" group-title="Spanish",Canal N (576p)
-http://190.108.91.206:9050/play/a0bd/index.m3u8
+#EXTINF:-1 tvg-id="CanalN.pe@SD" tvg-logo="https://i.imgur.com/Xytvw3J.png" group-title="Spanish",Canal N (1080p)
+http://170.244.209.30:8000/play/a1ib/index.m3u8
 #EXTINF:-1 tvg-id="CanalNets.co@SD" tvg-logo="https://i.imgur.com/edaAexc.png" group-title="Spanish",Canal Nets (720p) [Not 24/7]
 https://movil.ejeserver.com/live/nets.m3u8
 #EXTINF:-1 tvg-id="CanalOracionConSon.co@SD" tvg-logo="https://i.imgur.com/rfnFqU3.png" group-title="Spanish",Canal Oración Con Son (1080p)
@@ -19322,6 +19308,9 @@ https://twitch-m3u8.bastypro112.workers.dev/erboldigital/index.m3u8
 https://stmv1.transmissaodigital.com/pedro9800/pedro9800/playlist.m3u8
 #EXTINF:-1 tvg-id="EspirituSantoYFuegoTV.gt@SD" tvg-logo="https://i.imgur.com/8mdSWO4.jpg" group-title="Spanish",Espíritu Santo Y Fuego TV (480p)
 https://inliveserver.com:1936/8392/8392/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPN7LatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Spanish",ESPN 7 Latin America (720p) [Geo-blocked]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn6-mux/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPNDeportes.us@HD" tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd-deportes_c.png" group-title="Spanish",ESPN Deportes HD (720p)
 http://168.228.44.241:9998/play/a0dz/index.m3u8
 #EXTINF:-1 tvg-id="ESPNExtraLatinAmerica.us@Argentine" tvg-logo="https://i.imgur.com/8P8N2Ov.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" group-title="Spanish",ESPN Extra Latin America (1080p)
@@ -22923,8 +22912,6 @@ http://103.151.60.162:2122/play/a02v/index.m3u8?hls
 http://103.185.24.134:3001/SONY-BBC/index.m3u8
 #EXTINF:-1 tvg-id="SonyPix.in@HD" tvg-logo="https://i.postimg.cc/Z5G8j67L/PIX-HD-WHITE.png" group-title="Tamil",Sony Pix HD (1080p)
 https://sl.vodep39240327.workers.dev/channel/SONY+PIX+HD.m3u8
-#EXTINF:-1 tvg-id="SonyYay.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png?lock=720x540" group-title="Tamil",Sony Yay! (1080p)
-https://cloudplay-sonyliv.pages.dev/yay.m3u8
 #EXTINF:-1 tvg-id="SooriyanTV.ca@SD" tvg-logo="https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg" group-title="Tamil",Sooriyan TV (1080p)
 https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
 #EXTINF:-1 tvg-id="StarMovies.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png" group-title="Tamil",Star Movies HD (1080p)
@@ -23019,8 +23006,6 @@ http://103.151.60.162:2122/play/a02v/index.m3u8?hls
 http://103.185.24.134:3001/SONY-BBC/index.m3u8
 #EXTINF:-1 tvg-id="SonyPix.in@HD" tvg-logo="https://i.postimg.cc/Z5G8j67L/PIX-HD-WHITE.png" group-title="Telugu",Sony Pix HD (1080p)
 https://sl.vodep39240327.workers.dev/channel/SONY+PIX+HD.m3u8
-#EXTINF:-1 tvg-id="SonyYay.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png?lock=720x540" group-title="Telugu",Sony Yay! (1080p)
-https://cloudplay-sonyliv.pages.dev/yay.m3u8
 #EXTINF:-1 tvg-id="StarSports2.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png" group-title="Telugu",Star Sports 2 (576p)
 http://103.151.60.162:2122/play/a00v/index.m3u8?hls
 #EXTINF:-1 tvg-id="StudioOnePlus.in@SD" tvg-logo="https://i.imgur.com/yOPB7JB.png" group-title="Telugu",Studio One + (720p)
@@ -23704,7 +23689,7 @@ http://stream.mcquack.net/485/index.m3u8
 https://api-tv.ipnet.ua/api/v1/manifest/2118742594.m3u8
 #EXTINF:-1 tvg-id="EUMusic.ua@SD" tvg-logo="https://i.imgur.com/fJdvyrG.png" group-title="Ukrainian",EU Music (1080p)
 http://stream.mcquack.net/261/index.m3u8
-#EXTINF:-1 tvg-id="EWTNUkraine.ua@SD" tvg-logo="" group-title="Ukrainian",EWTN Ukraine (1080p)
+#EXTINF:-1 tvg-id="EWTNUkraine.ua@SD" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/1920px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="Ukrainian",EWTN Ukraine (1080p)
 https://cdn3.wowza.com/1/WjduMm1tYnlwNXQx/M01NV3Uz/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Fashion.ua@SD" tvg-logo="https://ukrtvr.org/images/%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B5%D0%B6%D1%96/%D1%81%D1%82%D0%B0%D1%80%D1%96_%D0%BB%D0%BE%D0%B3%D0%BE/FASHION%20TV%20UKRAINE/FASHION%20TV%20UKRAINE.png" group-title="Ukrainian",Fashion (1080p)
 http://stream.mcquack.net/288/index.m3u8
@@ -23779,7 +23764,7 @@ https://api-tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
 #EXTINF:-1 tvg-id="Lale.ua@SD" tvg-logo="https://i.imgur.com/CNhqVHd.png" http-user-agent="curl/8.16.0" group-title="Ukrainian",Lale
 #EXTVLCOPT:http-user-agent=curl/8.16.0
 https://ext.cdn.nashnet.tv/228.0.0.50/index.m3u8
-#EXTINF:-1 tvg-id="LuxTV.ua@SD" tvg-logo="https://scontent.flwo7-2.fna.fbcdn.net/v/t39.30808-6/299781096_437110311778402_8892509274877595133_n.jpg?stp=dst-jpg_tt6&cstp=mx180x180&ctp=s180x180&_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=EzuiZun2Z7MQ7kNvwGwamqs&_nc_oc=AdqD7PmQFEBj-meclATFIEyi6MtiFVk9c93NRL42MuImlgxWXE69pUu8Bu6GTe58F94&_nc_zt=23&_nc_ht=scontent.flwo7-2.fna&_nc_gid=SF_zuZPK3NFlr2priMZhNg&_nc_ss=7b289&oh=00_Af_6K02GxmV5xAnJuNY3TYXdQX6dhtAUCPy2dd4G1wb1hA&oe=6A3CB9A7" http-referrer="http://live.tvstitch.com/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36" group-title="Ukrainian",Lux TV (1080p)
+#EXTINF:-1 tvg-id="LuxTV.ua@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Lux_TV_2.png" http-referrer="http://live.tvstitch.com/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36" group-title="Ukrainian",Lux TV (1080p)
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 http://777905.live.tvstitch.com/stream.m3u8?m=aHR0cHM6Ly9obHMtY2RuMS5keXZ5YXBwLmNvbS9sdXgtdHYvdmlkZW8ubTN1OD90b2tlbj1leUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKamFHRnVibVZzWDJsa0lqbzBNekVzSW1Ob1lXNXVaV3hmYm1GdFpTSTZJa3hWV0NCVVZpSXNJbWx3SWpvaU1UYzRMakV6Tmk0ME1pNHlNakFpTENKamIzVnVkSEo1SWpvaVZXdHlZV2x1WlNJc0luVnpaWEpmYVdRaU9tNTFiR3dzSW5WelpYSmZjR2h2Ym1VaU9tNTFiR3dzSW5WelpYSmZjbTlzWlhNaU9sdGRMQ0p3Y205bWFXeGxYMmxrSWpwdWRXeHNMQ0p6WlhOemFXOXVYMmxrSWpvaU56ZGpabVUzTkdJdE1USmtaQzAwTTJSbExXSmtNVGt0WVRKaFptUmtabUUwT0RWaElpd2laVzUyYVhKdmJtMWxiblFpT2lKd2NtOWtkV04wYVc5dUlpd2ljR3hoZEdadmNtMGlPaUpFWlhOcmRHOXdJaXdpZFhObGNsOWhaMlZ1ZENJNklrMXZlbWxzYkdGY0x6VXVNQ0FvVjJsdVpHOTNjeUJPVkNBeE1DNHdPeUJYYVc0Mk5Ec2dlRFkwS1NCQmNIQnNaVmRsWWt0cGRGd3ZOVE0zTGpNMklDaExTRlJOVEN3Z2JHbHJaU0JIWldOcmJ5a2dRMmh5YjIxbFhDOHhOVEl1TUM0d0xqQWdVMkZtWVhKcFhDODFNemN1TXpZaUxDSmxlSEFpT2pFM09EZ3hOekk0TnpOOS5GV2NmZDBhOV93dEVONmozWS1GaFNFYzFjbV9uamh1VVZmWjhiZzVLcG84&channel=431

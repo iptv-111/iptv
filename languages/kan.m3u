@@ -23,8 +23,6 @@ https://cdn-3.pishow.tv/live/1135/master.m3u8
 http://103.151.60.162:2122/play/a02v/index.m3u8?hls
 #EXTINF:-1 tvg-id="SonySportsTen4.in@Kannada" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyTen4Kan.png" group-title="Sports",Sony Sports Ten 4 Kannada (576p)
 http://103.151.60.162:2122/play/a021/index.m3u8?hls
-#EXTINF:-1 tvg-id="SonyYay.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png?lock=720x540" group-title="Animation;Kids",Sony Yay! (1080p)
-https://cloudplay-sonyliv.pages.dev/yay.m3u8
 #EXTINF:-1 tvg-id="StarSports1.in@SD" tvg-logo="https://i.imgur.com/E5jjKHI.png" group-title="Sports",Star Sports 1 (576p)
 http://51.75.127.199:3141/starsports1/index.m3u8
 #EXTINF:-1 tvg-id="SuvarnaNews.in@SD" tvg-logo="https://i.imgur.com/0H1HObK.png" group-title="News",Suvarna News SD (576p)

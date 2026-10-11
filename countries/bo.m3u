@@ -59,6 +59,9 @@ https://master.tucableip.com/dmoda/index.m3u8
 https://master.tucableip.com/eldebertv/index.m3u8
 #EXTINF:-1 tvg-id="Erbol.bo@SD" tvg-logo="https://i.imgur.com/hn1KI7t.png" group-title="News",Erbol (720p)
 https://twitch-m3u8.bastypro112.workers.dev/erboldigital/index.m3u8
+#EXTINF:-1 tvg-id="ESPN7LatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Sports",ESPN 7 Latin America (720p) [Geo-blocked]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn6-mux/playlist.m3u8
 #EXTINF:-1 tvg-id="F10HD.bo@SD" tvg-logo="https://i.imgur.com/OEsT0KN.png" group-title="General",F10 HD (720p)
 http://15.204.246.24:8080/F10HD/index.m3u8
 #EXTINF:-1 tvg-id="FAPTV.bo@SD" tvg-logo="https://i.imgur.com/jZ7g58e.png" group-title="General",FAP TV (720p)

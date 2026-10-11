@@ -423,8 +423,8 @@ https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 https://streaming.canal-i.com/canal-i/live/master.m3u8
 #EXTINF:-1 tvg-id="CanalMetropolitanodeNoticias.br@SD" tvg-logo="https://i.imgur.com/G0x4xqa.png" group-title="News",Canal Metropolitano de Noticias
 https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalN.pe@SD" tvg-logo="https://i.imgur.com/Xytvw3J.png" group-title="News",Canal N (576p)
-http://190.108.91.206:9050/play/a0bd/index.m3u8
+#EXTINF:-1 tvg-id="CanalN.pe@SD" tvg-logo="https://i.imgur.com/Xytvw3J.png" group-title="News",Canal N (1080p)
+http://170.244.209.30:8000/play/a1ib/index.m3u8
 #EXTINF:-1 tvg-id="CanalPyC.co@SD" tvg-logo="https://i.imgur.com/3qxBDhV.png" group-title="News",Canal PyC (720p)
 https://live20.bozztv.com/akamaissh101/ssh101/pyctelevision/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalSurNoticias.es@SD" tvg-logo="https://i.imgur.com/A3JscwS.png" group-title="News;Public",Canal Sur Noticias
