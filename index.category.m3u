@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://worker-9dd4.onrender.com/guide.xml.gz"
+#EXTM3U
 #EXTINF:-1 tvg-id="3ABNKids.us@SD" tvg-logo="https://i.imgur.com/z3npqO1.png" group-title="Animation",3ABN Kids Network
 https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ADNTVPlus.fr@SD" tvg-logo="https://i.imgur.com/HQZQyWt.png" group-title="Animation",ADN TV+ (720p)
@@ -5642,7 +5642,7 @@ https://fuel-streaming-prod01.fuelmedia.io/v1/sem/e48409e7-672d-42f2-b5e0-ebb674
 https://linear-691.frequency.stream/dist/stirr/691/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="CBS.us@WPEC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" group-title="General",CBS 12 West Palm Beach FL (WPEC) (1080p)
 https://linear-692.frequency.stream/dist/stirr/692/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="CBS.us@KEYETV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" group-title="General",CBS 42 Austin TX (KEYE) (1080p)
+#EXTINF:-1 tvg-id="CBS.us@KEYETV" tvg-logo="https://i.ibb.co/xKd2b7NP/keye.png" group-title="General",CBS 42 Austin TX (KEYE) (1080p)
 https://linear-704.frequency.stream/dist/stirr/704/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="CBS.us@KMOV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/KMOV_(2023).svg/revision/latest/scale-to-width-down/512" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" group-title="General",CBS KMOV (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
@@ -9094,7 +9094,7 @@ https://astl-mainstr.qvixsolutions.com/asltvtu_ext/index.m3u8
 https://alpha.tv.online.tm/hls/ch007.m3u8
 #EXTINF:-1 tvg-id="TV1.my@SD" tvg-logo="https://i.imgur.com/wSyPmiY.png" group-title="General",TV1 (1080p)
 https://live.mana2.my/Tv1/index.m3u8?auth_key=1745177809-03fbff3dfc194161829ff0dbf94a205a-0-c6dcdd3499b8b5488b7de0f6613b8047&token=1745177809-03fbff3dfc194161829ff0dbf94a205a-0-c6dcdd3499b8b5488b7de0f6613b8047
-#EXTINF:-1 tvg-id="TV1.rw@SD" tvg-logo="https://i.imgur.com/wk59tHA.png" group-title="General",TV1
+#EXTINF:-1 tvg-id="TV1.rw@SD" tvg-logo="https://i.imgur.com/nQNOHJx.png" group-title="General",TV1
 https://live.tv1.rw/index.m3u8
 #EXTINF:-1 tvg-id="TV1KG.kg@SD" tvg-logo="https://i.imgur.com/Mti9t9C.png" group-title="General",TV1 KG (1080p)
 http://212.2.225.30:1935/live/site.stream/playlist.m3u8
@@ -20692,7 +20692,7 @@ https://rpn.bozztv.com/gusa/gusa-celebrityscene/index.m3u8
 https://vivo.solumedia.com:19360/celta/celta.m3u8
 #EXTINF:-1 tvg-id="CTV.ca@CFTODT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/CTV_logo_2018.svg/960px-CTV_logo_2018.svg.png" group-title="Undefined",CFTO-DT (720p)
 http://stream.cammonitorplus.net/1712/index.m3u8
-#EXTINF:-1 tvg-id="ChacoTV.ar@SD" tvg-logo="https://i.imgur.com/b6RerDw.png" group-title="Undefined",Chaco TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ChacoTV.ar@SD" tvg-logo="" group-title="Undefined",Chaco TV (720p) [Not 24/7]
 https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel8.gr@HD" tvg-logo="https://www.channel8.gr/img/channel8.png" group-title="Undefined",Channel 8 (1080p)
 https://gra1.crystalweb.net:1936/channel8/channel8/playlist.m3u8

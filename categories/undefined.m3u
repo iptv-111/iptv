@@ -451,7 +451,7 @@ https://rpn.bozztv.com/gusa/gusa-celebrityscene/index.m3u8
 https://vivo.solumedia.com:19360/celta/celta.m3u8
 #EXTINF:-1 tvg-id="CTV.ca@CFTODT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/CTV_logo_2018.svg/960px-CTV_logo_2018.svg.png" group-title="Undefined",CFTO-DT (720p)
 http://stream.cammonitorplus.net/1712/index.m3u8
-#EXTINF:-1 tvg-id="ChacoTV.ar@SD" tvg-logo="https://i.imgur.com/b6RerDw.png" group-title="Undefined",Chaco TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ChacoTV.ar@SD" tvg-logo="" group-title="Undefined",Chaco TV (720p) [Not 24/7]
 https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel8.gr@HD" tvg-logo="https://www.channel8.gr/img/channel8.png" group-title="Undefined",Channel 8 (1080p)
 https://gra1.crystalweb.net:1936/channel8/channel8/playlist.m3u8

@@ -17,7 +17,7 @@ https://linear-696.frequency.stream/dist/stirr/696/hls/master/playlist.m3u8
 https://linear-689.frequency.stream/dist/stirr/689/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="CBS.us@KDBCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" group-title="General",CBS 4 El Paso TX (KDBC) (1080p)
 https://linear-706.frequency.stream/dist/stirr/706/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="CBS.us@KEYETV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" group-title="General",CBS 42 Austin TX (KEYE) (1080p)
+#EXTINF:-1 tvg-id="CBS.us@KEYETV" tvg-logo="https://i.ibb.co/xKd2b7NP/keye.png" group-title="General",CBS 42 Austin TX (KEYE) (1080p)
 https://linear-704.frequency.stream/dist/stirr/704/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="CBS.us@KUTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" group-title="General",CBS 2 Salt Lake City UT (KUTV) (1080p)
 https://linear-707.frequency.stream/dist/stirr/707/hls/master/playlist.m3u8

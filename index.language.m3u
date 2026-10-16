@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://worker-9dd4.onrender.com/guide.xml.gz"
+#EXTM3U
 #EXTINF:-1 tvg-id="ApsuaTV.ge@SD" tvg-logo="https://i.imgur.com/TJowroY.png" group-title="Abkhazian",Apsua TV
 https://gcmx3v3owcj.a.trbcdn.net/livemaster/ba7pu_fgej0zelpw.smil/playlist.m3u8?blstid=null
 #EXTINF:-1 tvg-id="WanLuoTV.ug@SD" tvg-logo="https://i.imgur.com/4PUUp3E.png" group-title="Acoli",Wan Luo TV (576p)
@@ -4106,7 +4106,7 @@ https://linear-691.frequency.stream/dist/stirr/691/hls/master/playlist.m3u8
 https://linear-692.frequency.stream/dist/stirr/692/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Roar.us@WSBTTV" tvg-logo="https://iili.io/FxYNwOB.md.png" group-title="English",CBS 22 South Bend IN (WSBT) (1080p)
 https://linear-693.frequency.stream/dist/stirr/693/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="CBS.us@KEYETV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" group-title="English",CBS 42 Austin TX (KEYE) (1080p)
+#EXTINF:-1 tvg-id="CBS.us@KEYETV" tvg-logo="https://i.ibb.co/xKd2b7NP/keye.png" group-title="English",CBS 42 Austin TX (KEYE) (1080p)
 https://linear-704.frequency.stream/dist/stirr/704/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="CBSenespanol.us@SD" tvg-logo="https://images.pluto.tv/channels/668c5cb4f01dbe0008dd4082/colorLogoPNG.png" group-title="English",CBS en español
 https://jmp2.uk/plu-668c5cb4f01dbe0008dd4082.m3u8
@@ -8335,7 +8335,7 @@ https://alpha.tv.online.tm/hls/ch007.m3u8
 https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TV1.my@SD" tvg-logo="https://i.imgur.com/wSyPmiY.png" group-title="English",TV1 (1080p)
 https://live.mana2.my/Tv1/index.m3u8?auth_key=1745177809-03fbff3dfc194161829ff0dbf94a205a-0-c6dcdd3499b8b5488b7de0f6613b8047&token=1745177809-03fbff3dfc194161829ff0dbf94a205a-0-c6dcdd3499b8b5488b7de0f6613b8047
-#EXTINF:-1 tvg-id="TV1.rw@SD" tvg-logo="https://i.imgur.com/wk59tHA.png" group-title="English",TV1
+#EXTINF:-1 tvg-id="TV1.rw@SD" tvg-logo="https://i.imgur.com/nQNOHJx.png" group-title="English",TV1
 https://live.tv1.rw/index.m3u8
 #EXTINF:-1 tvg-id="TV2.dz@SD" tvg-logo="https://i.imgur.com/VEb631f.png" group-title="English",TV2 (1080p)
 http://185.9.2.18/chid_347/index.m3u8
@@ -12967,7 +12967,7 @@ https://5c46fa289c89f.streamlock.net/pub2live/myStream/playlist.m3u8
 http://197.243.19.131:1935/kc2/kc2/chunklist.m3u8
 #EXTINF:-1 tvg-id="RwandaTV.rw@SD" tvg-logo="https://i.imgur.com/4nbGvxW.png" group-title="Kinyarwanda",RTV Rwanda (480p) [Not 24/7]
 http://197.243.19.131:1935/rtv25/rtv/chunklist.m3u8
-#EXTINF:-1 tvg-id="TV1.rw@SD" tvg-logo="https://i.imgur.com/wk59tHA.png" group-title="Kinyarwanda",TV1
+#EXTINF:-1 tvg-id="TV1.rw@SD" tvg-logo="https://i.imgur.com/nQNOHJx.png" group-title="Kinyarwanda",TV1
 https://live.tv1.rw/index.m3u8
 #EXTINF:-1 tvg-id="TV10.rw@SD" tvg-logo="https://i.imgur.com/DeaWC1N.png" group-title="Kinyarwanda",TV10 (720p)
 https://5c46fa289c89f.streamlock.net/pub1live/mystream/playlist.m3u8
@@ -18753,8 +18753,6 @@ https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/cerritos/G0010_002/playlist.m3u8
 http://player.cetelmon.tv/protecteddfd43c2f3a8b41f3f28582bf8993aca6/992_high.m3u8
 #EXTINF:-1 tvg-id="CGTNSpanish.cn@SD" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="Spanish",CGTN Español (1080p)
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-#EXTINF:-1 tvg-id="ChacoTV.ar@SD" tvg-logo="https://i.imgur.com/b6RerDw.png" group-title="Spanish",Chaco TV (720p) [Not 24/7]
-https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
 #EXTINF:-1 tvg-id="ChacraTV.ar@SD" tvg-logo="https://i.imgur.com/gy7AEfO.png" group-title="Spanish",Chacra TV
 https://5f700d5b2c46f.streamlock.net/chacratv/chacratv/playlist.m3u8
 #EXTINF:-1 tvg-id="ChamameTV.ar@SD" tvg-logo="https://i.imgur.com/JigzJck.png" group-title="Spanish",Chamame TV
@@ -24538,6 +24536,8 @@ https://jmp2.uk/plu-6093f9ed2c75660007322bb7.m3u8
 https://jmp2.uk/plu-5f8eb66537867f0007146953.m3u8
 #EXTINF:-1 tvg-id="WHPDT1.us@SD" tvg-logo="" group-title="Undefined",CBS 21 Harrisburg PA (WHP) (1080p)
 https://linear-697.frequency.stream/dist/stirr/697/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="ChacoTV.ar@SD" tvg-logo="" group-title="Undefined",Chaco TV (720p) [Not 24/7]
+https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
 #EXTINF:-1 tvg-id="CHCHDT.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/CHCH2010.svg/960px-CHCH2010.svg.png" group-title="Undefined",CHCH-DT (720p)
 http://185.246.209.113/CHCHHD/index.m3u8
 #EXTINF:-1 tvg-id="Cheers.de@DACH" tvg-logo="" group-title="Undefined",Cheers
