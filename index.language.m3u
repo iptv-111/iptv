@@ -24317,6 +24317,8 @@ https://freem3u.xyz/api/live/play.m3u8?vid=181
 http://dvrfl05.bozztv.com/vch_vchannel18/index.m3u8
 #EXTINF:-1 tvg-id="QPVN.vn@HD" tvg-logo="https://i.imgur.com/GQO7UNu.png" group-title="Vietnamese",QPVN HD (1080p)
 https://liveh12.vtvprime.vn/hls/QPTV/index.m3u8
+#EXTINF:-1 tvg-id="QuangNinhTV3.vn@SD" tvg-logo="https://i.imgur.com/Tkz2X6P.png" group-title="Vietnamese",Quang Ninh TV 3 (720p) [Geo-blocked]
+https://live.baoquangninh.vn/qtvlive/tv3live.m3u8
 #EXTINF:-1 tvg-id="SCTV2.vn@SD" tvg-logo="https://i.imgur.com/8i5DXIg.png" group-title="Vietnamese",SCTV2 (720p)
 https://liveh12.vtvprime.vn/hls/SCTV2/index.m3u8
 #EXTINF:-1 tvg-id="SCTV3.vn@SD" tvg-logo="https://i.imgur.com/tfk298I.png" group-title="Vietnamese",SCTV3 (720p)
