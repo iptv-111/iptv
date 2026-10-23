@@ -150,8 +150,6 @@ http://hls127.freeott.top:8080/TNT_MUSIC_HD/video.m3u8
 http://stream.mcquack.net/317/index.m3u8
 #EXTINF:-1 tvg-id="FoodTime.ru@SD",FoodTime (1080p)
 http://stream.mcquack.net/216/index.m3u8
-#EXTINF:-1 tvg-id="Football.ru@SD",Football (576p)
-http://hls127.freeott.top:8080/Football/video.m3u8
 #EXTINF:-1 tvg-id="Fox.ru@SD",Fox (576p)
 http://stream.mcquack.net/182/index.m3u8
 #EXTINF:-1 tvg-id="FoxLife.ru@SD",Fox Life (576p)
