@@ -631,3 +631,7 @@ http://102.129.186.182:81/la7d/index.m3u8
 https://hostemea1236.s.gy/italia/nikc/23/32/93/locos.m3u8
 #EXTINF:-1 tvg-id="RaiMovie.it@HD" tvg-logo="https://i.imgur.com/0FjxXU9.png" group-title="Movies",Rai Movie HD (1080p)
 http://team-tv.co:81/raimovie/index.m3u8
+#EXTINF:-1 tvg-id="RaiGulp.it@SD" tvg-logo="https://i.imgur.com/irAhPJM.png" group-title="Undefined",Rai Gulp (1080p)
+http://5.180.164.197:8080/RAIGULP/index.m3u8
+#EXTINF:-1 tvg-id="NickJr.it@SD" tvg-logo="https://i.imgur.com/6p3eFgf.png" group-title="Kids",Nick Jr.
+https://streamer-jv9.pages.dev/italy/nickjr.m3u
