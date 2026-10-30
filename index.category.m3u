@@ -7985,7 +7985,7 @@ http://200.194.238.229:8383/live/primer/playlist.m3u8
 https://5eaccbab48461.streamlock.net:1936/heqhvtgebg/heqhvtgebg/playlist.m3u8
 #EXTINF:-1 tvg-id="PROTVChisinau.md@SD" tvg-logo="https://i.imgur.com/X5PYRxF.png" group-title="General",PRO TV Chisinau (576p)
 http://178.76.68.60:7442/15/mpegts
-#EXTINF:-1 tvg-id="PROFI24TV.ro@SD" tvg-logo="" group-title="General",PROFI 24 TV
+#EXTINF:-1 tvg-id="PROFI24TV.ro@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Profi_24_TV.png/revision/latest?cb=20251020190432" group-title="General",PROFI 24 TV
 https://live.ro24tv.ro/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PromarTV.ve@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Promar_Television.png" group-title="General",PromarTV (576p)
 https://vcp.myplaytv.com/promar/promar/playlist.m3u8

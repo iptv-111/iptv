@@ -13631,7 +13631,7 @@ https://video2.getstreamhosting.com:19360/8000/8000.m3u8
 http://190.128.214.97:64333/play/a04i/index.m3u8
 #EXTINF:-1 tvg-id="Prodvizhenie.ru@SD" tvg-logo="https://i.imgur.com/KlsnfG9.png" group-title="Undefined",Prodvizhenie (1080p)
 https://streaming.astrakhan.ru/proastrakhanhd/index.m3u8
-#EXTINF:-1 tvg-id="PROFI24TV.ro@SD" tvg-logo="" group-title="General",PROFI 24 TV
+#EXTINF:-1 tvg-id="PROFI24TV.ro@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Profi_24_TV.png/revision/latest?cb=20251020190432" group-title="General",PROFI 24 TV
 https://live.ro24tv.ro/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Prokino.ua@SD" tvg-logo="https://i.imgur.com/Vm9nbi8.png" group-title="Movies",Prokino (360p)
 http://dtv.vol.net.ua/ProKino/index.m3u8
