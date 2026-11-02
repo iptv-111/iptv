@@ -41,6 +41,8 @@ https://86ebec83.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 https://jmp2.uk/plu-66f55a9a747bfa0008521859.m3u8
 #EXTINF:-1 tvg-id="Bobleponge.de@FR" tvg-logo="" group-title="Undefined",Bob l'éponge (720p)
 https://jmp2.uk/plu-5ffc8c345822750007e167de.m3u8
+#EXTINF:-1 tvg-id="Bolivision.bo@SD" tvg-logo="https://i.imgur.com/U98Z5zn.png" group-title="General",Bolivision (1080p)
+http://15.204.246.24:8080/BolivisionHD/index.m3u8
 #EXTINF:-1 tvg-id="BolivisionSantaCruz.bo@SD" tvg-logo="" group-title="Undefined",Bolivision Santa Cruz (720p)
 https://d1mws3umreue1g.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-id="BollywoodHD.ro@SD" tvg-logo="https://i.imgur.com/scDKOLS.png" group-title="Movies",Bollywood HD (1080p)
