@@ -7628,7 +7628,7 @@ https://hilandofinotv.essastream.com:3606/live/canalhilandofinotvlive.m3u8
 https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/hillsboroughcounty/G2155_002/playlist.m3u8
 #EXTINF:-1 tvg-id="HimlenTV7.fi@SD" tvg-logo="https://i.imgur.com/k8a7KNn.png" group-title="Religious",Himlen TV7 (720p)
 https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="HindiHits.in@SD" tvg-logo="https://i.postimg.cc/ryC1Y2K4/Capture.png" group-title="Music",Hindi Hits (720p)
+#EXTINF:-1 tvg-id="HindiHits.in@SD" tvg-logo="https://i.ibb.co/SwWjbPSv/hindi-hits-hd.png" group-title="Music",Hindi Hits (720p)
 https://samitaorigin.tangotv.in/HINDIHITS/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="HindiKhabar.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HINDI_KHABAR/images/LOGO_HD/image.png" group-title="News",Hindi Khabar (576p)
 https://cdn-2.pishow.tv/live/1041/master.m3u8
@@ -13925,6 +13925,8 @@ https://stream8.cinerama.uz/1420/tracks-v1a1/mono.m3u8
 http://stream.mcquack.net/198/index.m3u8
 #EXTINF:-1 tvg-id="Prima.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Prima_2013.png/960px-Prima_2013.png" group-title="Undefined",Prima (1080p)
 http://88.212.15.19/live/prima_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="Prima4K.ro@UHD" tvg-logo="https://i.imgur.com/fOFgdHj.png" group-title="Sports",Prima 4K (2160p)
+http://92.180.26.103/stream/80/index.m3u8
 #EXTINF:-1 tvg-id="PrimaCool.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Prima_Cool_logo_zelen%C3%A9.png/960px-Prima_Cool_logo_zelen%C3%A9.png" group-title="Undefined",Prima Cool
 http://88.212.15.19/live/prima_cool_cz_avc/index.m3u8
 #EXTINF:-1 tvg-id="PrimaCoolSK.sk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Prima_COOL_SK_logo.png" group-title="Undefined",Prima Cool SK (1080p)

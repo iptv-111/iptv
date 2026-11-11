@@ -11069,7 +11069,7 @@ http://cdn12.henico.net:8080/live/gsctv/index.m3u8
 https://cdn-6.pishow.tv/live/14/master.m3u8
 #EXTINF:-1 tvg-id="Gyandarshan.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GYANDARSHAN/images/LOGO_HD/image.png" group-title="Hindi",Gyandarshan HD (576p)
 https://mumt05.tangotv.in/87NeALx2GYANDARSHAN/index.m3u8
-#EXTINF:-1 tvg-id="HindiHits.in@SD" tvg-logo="https://i.postimg.cc/ryC1Y2K4/Capture.png" group-title="Hindi",Hindi Hits (720p)
+#EXTINF:-1 tvg-id="HindiHits.in@SD" tvg-logo="https://i.ibb.co/SwWjbPSv/hindi-hits-hd.png" group-title="Hindi",Hindi Hits (720p)
 https://samitaorigin.tangotv.in/HINDIHITS/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="HindiKhabar.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HINDI_KHABAR/images/LOGO_HD/image.png" group-title="Hindi",Hindi Khabar (576p)
 https://cdn-2.pishow.tv/live/1041/master.m3u8
@@ -15950,6 +15950,8 @@ http://streamer1.streamhost.org:1935/salive/GMIlcbgM/playlist.m3u8
 https://brightstar-romanian-pull-secure.akamaized.net/brightstarromanian/stream.m3u8
 #EXTINF:-1 tvg-id="LiraTV.es@SD" tvg-logo="https://i.imgur.com/hBswXYZ.png" group-title="Romanian",LiraTV (720p)
 https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8
+#EXTINF:-1 tvg-id="LoveNature.ca@4K" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="Romanian",Love Nature 4K (2160p) [Geo-blocked]
+https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 #EXTINF:-1 tvg-id="MagicTV.ro@SD" tvg-logo="https://i.imgur.com/9izrr4d.png" group-title="Romanian",Magic TV (720p)
 https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
 #EXTINF:-1 tvg-id="MetropolaTV.ro@SD" tvg-logo="https://i.imgur.com/Gzq05v8.png" group-title="Romanian",Metropola TV (1080p) [Not 24/7]
@@ -16001,6 +16003,8 @@ https://hls02ns.antenaplay.ro/hls/nostalgia-hd/index.m3u8
 http://novapress.ro:2022/live/nova/playlist.m3u8
 #EXTINF:-1 tvg-id="ObservatorNews.ro@SD" tvg-logo="https://i.imgur.com/f6xEIAr.png" group-title="Romanian",Observator News (360p)
 https://live77cdn2.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
+#EXTINF:-1 tvg-id="Prima4K.ro@UHD" tvg-logo="https://i.imgur.com/fOFgdHj.png" group-title="Romanian",Prima 4K (2160p)
+http://92.180.26.103/stream/80/index.m3u8
 #EXTINF:-1 tvg-id="PrimaNews.ro@SD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Prima_News_logo_2022.svg/1280px-Prima_News_logo_2022.svg.png" group-title="Romanian",Prima News
 https://hls02ns.antenaplay.ro/hls/prima-news-hd/index.m3u8
 #EXTINF:-1 tvg-id="PrimaTV.ro@HD" tvg-logo="https://i.imgur.com/p2umWAT.png" group-title="Romanian",Prima TV HD

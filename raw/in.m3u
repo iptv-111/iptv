@@ -449,7 +449,7 @@ https://mumbai-edge.smartplaytv.in/GlobeTV/index.m3u8
 https://samitaorigin.tangotv.in/GRACETV/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="GreenGoldTV.in@India" tvg-logo="https://i.ibb.co/TDPsPVkT/Greengoldtv.png" group-title="Kids",Green Gold TV (1080p)
 https://cc-szrmqvu8zkg16.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-szrmqvu8zkg16/greengold/stream/grngld/playlist.m3u8
-#EXTINF:-1 tvg-id="HindiHits.in@SD" tvg-logo="https://i.postimg.cc/ryC1Y2K4/Capture.png" group-title="Music",Hindi Hits (720p)
+#EXTINF:-1 tvg-id="HindiHits.in@SD" tvg-logo="https://i.ibb.co/SwWjbPSv/hindi-hits-hd.png" group-title="Music",Hindi Hits (720p)
 https://samitaorigin.tangotv.in/HINDIHITS/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="MahuaPlay.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Mahua_Play.png" group-title="Movies",Mahua Play (1080p)
 https://cdn.ottlive.co.in/mahuaplay/index.m3u8

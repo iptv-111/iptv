@@ -4380,6 +4380,8 @@ https://jmp2.uk/plu-5f1aca8310a30e00074fab92.m3u8
 https://stream.sen-gt.com/Mbacke/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="LouisLaBrocante.us@France" tvg-logo="https://i.imgur.com/I1w7rFb.png" group-title="Series",Louis La Brocante
 https://jmp2.uk/plu-5f8ed6d569d2d4000864a976.m3u8
+#EXTINF:-1 tvg-id="LoveNature.ca@4K" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="Outdoor",Love Nature 4K (2160p) [Geo-blocked]
+https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 #EXTINF:-1 tvg-id="LoveThePlanet.es@EN" tvg-logo="https://i.imgur.com/RBcD49X.png" group-title="Documentary",Love the Planet (1080p)
 https://amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk-apopw.amagi.tv/playlist/amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk/playlist.m3u8
 #EXTINF:-1 tvg-id="LoveThePlanet.es@DE" tvg-logo="https://i.imgur.com/RBcD49X.png" group-title="Documentary",Love The Planet DE (1080p) [Geo-blocked]
@@ -6506,6 +6508,8 @@ https://stream8.cinerama.uz/1420/tracks-v1a1/mono.m3u8
 http://stream.mcquack.net/198/index.m3u8
 #EXTINF:-1 tvg-id="Prima.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Prima_2013.png/960px-Prima_2013.png" group-title="Undefined",Prima (1080p)
 http://88.212.15.19/live/prima_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="Prima4K.ro@UHD" tvg-logo="https://i.imgur.com/fOFgdHj.png" group-title="Sports",Prima 4K (2160p)
+http://92.180.26.103/stream/80/index.m3u8
 #EXTINF:-1 tvg-id="PrimaCool.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Prima_Cool_logo_zelen%C3%A9.png/960px-Prima_Cool_logo_zelen%C3%A9.png" group-title="Undefined",Prima Cool
 http://88.212.15.19/live/prima_cool_cz_avc/index.m3u8
 #EXTINF:-1 tvg-id="PrimaCoolSK.sk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Prima_COOL_SK_logo.png" group-title="Undefined",Prima Cool SK (1080p)
