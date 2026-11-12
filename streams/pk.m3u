@@ -250,3 +250,5 @@ https://cdn4.mjunoon.tv:8087/streamtest/146M/chunks.m3u8
 https://cdn4.mjunoon.tv:8087/streamtest/81M/chunks.m3u8
 #EXTINF:-1 tvg-id="HumTV.pk@SD",Hum TV SD
 https://cdn4.mjunoon.tv:8087/streamtest/82M/chunks.m3u8
+#EXTINF:-1 tvg-id="PaighamTelevision.pk@SD",Paigham Television (576p)
+https://samitaorigin.tangotv.in/PAIGAMTV/SAMITAORIGIN/index.m3u8
